@@ -65,14 +65,14 @@ Miembros y nombre del equipo:
 -----
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-
+Aqui ponemos mi experiencia con la creacion de paginas web y ademas es necesario exponer ideas de qué creo que se puede mejorar para la aplicación en específico. Hay que venderse al cliente (invent pero que tenga algo de coherencia)
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
-
+Aquí lo que hay que completar es una descripcion breve (de la que aun no tengo mucha idea), cosas específicas que tiene la página, a lo mejor, que es lo que puede faltar
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
