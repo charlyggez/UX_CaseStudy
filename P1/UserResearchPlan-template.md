@@ -96,8 +96,16 @@ Define a quién vas a reclutar.
 - "Busca el producto X y añádelo al carrito".
   
 - "Encuentra el horario de apertura de la tienda".
-  
 
+-- RESPUESTA -- 
+  Situaremos al usuario en el siguiente contexto: "Es jueves por la tarde en Granada, quieres merendar algo distinto y quizás escuchar algo de música o poesía."
+
+Tarea 1 (Navegación / Gastronomía): "Entra en la sección de comida y busca si tienen tartas veganas y cuánto cuesta su famoso 'Matcha con coco'."
+
+Tarea 2 (Conversión / Cultura): "Ve a la agenda cultural, encuentra el próximo evento de 'Micro Abierto de Poesía'."
+
+Tarea 3 (Información práctica): "Busca en la web a qué hora abren los martes y si la dirección exacta es la de la Calle Águila."
+------
 
 
 #### 5. Cronograma y Entregables
