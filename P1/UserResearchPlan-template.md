@@ -15,23 +15,21 @@ Un **UX Research Plan** (Plan de Investigación de Usuario) es el documento estr
 Para que sea profesional, tu plan debe responder a estas secciones:
 #### 1. Antecedentes y Objetivos (The "Why")
 
-- **Contexto:** ¿Por qué estamos evaluando estos prototipos ahora? (Ej: "Validar la nueva interfaz de GazeMapping antes de pasar a desarrollo").
-Mejorar la capacidad y la funcionalidad de la web para encontrar nuevas herramientas. 
-
+- **Contexto:**
+  
 La Qarmita es una cafetería-librería con identidad cultural fuerte y comunidad local. Su presencia digital actual está basada en un blog (Blogspot), lo que puede limitar:
 
-Acceso rápido a información clave (horarios, ubicación, eventos).
+- Acceso rápido a información clave (horarios, ubicación, eventos).
 
-Descubrimiento de actividades culturales.
+- Descubrimiento de actividades culturales.
 
-Experiencia móvil.
+- Experiencia móvil.
 
-Conversión (visitas físicas al local).
+- Conversión (visitas físicas al local).
 
 El estudio se realiza antes de plantear un rediseño web, con el objetivo de validar qué funciona y qué necesita optimización
 
-- **Objetivos de investigación:** Deben ser específicos. No digas "ver si gusta"; di "evaluar si la ubicación del menú lateral permite completar una reserva en menos de 30 segundos".
-- Los objetivos deben ser medibles y específicos:
+- **Objetivos de investigación:** 
 
 - Evaluar si los usuarios pueden encontrar el horario de apertura en menos de 20 segundos.
 
@@ -43,13 +41,14 @@ El estudio se realiza antes de plantear un rediseño web, con el objetivo de val
 
 - **Experiencia del equipo / justificación**
 
-> tipología:
->
-> > como diseñador (he creado productos similares... )
+Como diseñador:
+He trabajado analizando experiencias digitales de pequeños negocios culturales, donde la claridad informativa impacta directamente en visitas físicas.
 
->> como stakeholder (he tenido experiencia al ser parte de .... )
+Como stakeholder:
+Entiendo que una cafetería cultural vive tanto de su comunidad como de su identidad digital.
 
->> como observador/oir a la gente (observo que....)
+Como observador:
+He observado que muchos negocios locales con blogs antiguos dificultan encontrar información básica, afectando la experiencia del usuario móvil.
 
 
 
@@ -64,16 +63,6 @@ INdicar las herramientas a utilizar, p.e.
 Se pueden relacionar sobre el panorama de **Framework tridimensional de métodos UX** de Christian Rohrer (attitudinal Vs Behavioural, Qualitative VS Quantitative, Context of Use)
 
 
--- RESPUESTA --
-Para obtener resultados fiables basados en el Framework tridimensional de métodos UX de Christian Rohrer, utilizaremos:
-
-Cualitativa: Test de Usabilidad Moderado (Observación directa). Pediremos a los usuarios que interactúen con el prototipo mientras piensan en voz alta (Think Aloud), para detectar dónde dudan o qué botones ignoran.
-
-Cuantitativa: El cuestionario SUS (System Usability Scale) al finalizar la prueba para obtener una nota numérica estandarizada sobre la facilidad de uso global del prototipo.
-
-Comparativa: A/B Testing rápido sobre la página de inicio para medir si los usuarios prefieren ver primero "El Menú del Día" o "El Próximo Evento".
-
-----------
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QkF2uE-NsI0piP90AQkF-A.png" alt="UX Reaearch Methods" style="height:450px" />
 
@@ -81,13 +70,27 @@ ref: https://www.nngroup.com/articles/which-ux-research-methods/
 
 #### 3. Perfil de los Participantes (The "Who")
 
-Define a quién vas a reclutar.
+- **Criterios de inclusión:**
+- 
+- Edad: 20–55 años.
 
-- **Criterios de inclusión:** Edad, nivel de competencia digital, si usan gafas (por el eye tracking), etc.
-  
-- **Segmentación:** Usuarios de clase (co-evaluación) vs. usuarios externos.
+- Usuarios habituales de cafeterías o espacios culturales.
 
+- Nivel de competencia digital: Medio.
 
+- 50% usuarios móviles.
+
+- Sin problemas graves de visión.
+
+- Uso habitual de redes sociales.
+
+- **Segmentación:**
+
+- 6 usuarios externos (potenciales clientes reales).
+
+- 4 usuarios de clase (co-evaluación académica).
+
+Total: 10 participantes.
 
 #### 4. Guion y Tareas (The "What")
 
@@ -96,17 +99,8 @@ Define a quién vas a reclutar.
 - "Busca el producto X y añádelo al carrito".
   
 - "Encuentra el horario de apertura de la tienda".
+  
 
--- RESPUESTA -- 
-  Situaremos al usuario en el siguiente contexto: "Es jueves por la tarde en Granada, quieres merendar algo distinto y quizás escuchar algo de música o poesía."
-
-Tarea 1 (Navegación / Gastronomía): "Entra en la sección de comida y busca si tienen tartas veganas y cuánto cuesta su famoso 'Matcha con coco'."
-
-Tarea 2 (Conversión / Cultura): "Ve a la agenda cultural, encuentra el próximo evento de 'Micro Abierto de Poesía'."
-
-Tarea 3 (Información práctica): "Busca en la web a qué hora abren los martes y si la dirección exacta es la de la Calle Águila."
-
----
 
 
 #### 5. Cronograma y Entregables
