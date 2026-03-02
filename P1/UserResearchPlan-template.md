@@ -62,6 +62,14 @@ INdicar las herramientas a utilizar, p.e.
 
 Se pueden relacionar sobre el panorama de **Framework tridimensional de métodos UX** de Christian Rohrer (attitudinal Vs Behavioural, Qualitative VS Quantitative, Context of Use)
 
+-- RESPUESTA -- Para obtener resultados fiables basados en el Framework tridimensional de métodos UX de Christian Rohrer, utilizaremos:
+
+Cualitativa: Test de Usabilidad Moderado (Observación directa). Pediremos a los usuarios que interactúen con el prototipo mientras piensan en voz alta (Think Aloud), para detectar dónde dudan o qué botones ignoran.
+
+Cuantitativa: El cuestionario SUS (System Usability Scale) al finalizar la prueba para obtener una nota numérica estandarizada sobre la facilidad de uso global del prototipo.
+
+Comparativa: A/B Testing rápido sobre la página de inicio para medir si los usuarios prefieren ver primero "El Menú del Día" o "El Próximo Evento".
+
 
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QkF2uE-NsI0piP90AQkF-A.png" alt="UX Reaearch Methods" style="height:450px" />
@@ -100,6 +108,14 @@ Total: 10 participantes.
   
 - "Encuentra el horario de apertura de la tienda".
   
+
+-- RESPUESTA -- Situaremos al usuario en el siguiente contexto: "Es jueves por la tarde en Granada, quieres merendar algo distinto y quizás escuchar algo de música o poesía."
+
+Tarea 1 (Navegación / Gastronomía): "Entra en la sección de comida y busca si tienen tartas veganas y cuánto cuesta su famoso 'Matcha con coco'."
+
+Tarea 2 (Conversión / Cultura): "Ve a la agenda cultural, encuentra el próximo evento de 'Micro Abierto de Poesía'."
+
+Tarea 3 (Información práctica): "Busca en la web a qué hora abren los martes y si la dirección exacta es la de la Calle Águila."
 
 
 
