@@ -18,10 +18,11 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 #### 1. Antecedentes y Objetivos (The "Why")
 
 - **Contexto:** ¿Por qué estamos evaluando estos prototipos ahora? (Ej: "Validar la nueva interfaz de GazeMapping antes de pasar a desarrollo").
-
+Mejorar la capacidad y la funcionalidad de la web para encontrar nuevas herramientas. 
 
 
 - **Objetivos de investigación:** Deben ser específicos. No digas "ver si gusta"; di "evaluar si la ubicación del menú lateral permite completar una reserva en menos de 30 segundos".
+- 
 
 - **Experiencia del equipo / justificación**
 
