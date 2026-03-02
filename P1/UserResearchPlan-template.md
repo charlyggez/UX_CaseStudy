@@ -31,7 +31,15 @@ Conversión (visitas físicas al local).
 El estudio se realiza antes de plantear un rediseño web, con el objetivo de validar qué funciona y qué necesita optimización
 
 - **Objetivos de investigación:** Deben ser específicos. No digas "ver si gusta"; di "evaluar si la ubicación del menú lateral permite completar una reserva en menos de 30 segundos".
-- 
+- Los objetivos deben ser medibles y específicos:
+
+- Evaluar si los usuarios pueden encontrar el horario de apertura en menos de 20 segundos.
+
+- Medir si la ubicación del local se encuentra sin necesidad de hacer scroll excesivo.
+
+- Analizar el comportamiento visual para detectar si los eventos culturales llaman la atención.
+
+- Evaluar la claridad del concepto “libros + café”.
 
 - **Experiencia del equipo / justificación**
 
