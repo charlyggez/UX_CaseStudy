@@ -105,7 +105,8 @@ Tarea 1 (Navegación / Gastronomía): "Entra en la sección de comida y busca si
 Tarea 2 (Conversión / Cultura): "Ve a la agenda cultural, encuentra el próximo evento de 'Micro Abierto de Poesía'."
 
 Tarea 3 (Información práctica): "Busca en la web a qué hora abren los martes y si la dirección exacta es la de la Calle Águila."
-------
+
+---
 
 
 #### 5. Cronograma y Entregables
