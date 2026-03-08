@@ -80,7 +80,18 @@ Aquí lo que hay que completar es una descripcion breve (de la que aun no tengo 
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+>>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
+>>>
+>>> Para este apartado utilizaremos dos personas con un perfil ideal para este sector.
+>>>
+>>> Por una parte, tenemos a Pedro Martin:
+>>>
+>>> <img width="1010" height="788" alt="imagen" src="https://github.com/user-attachments/assets/94e7baeb-bbb0-4f7a-9eba-2f65b871fd09" />
+>>>
+>>> Como se puede ver, Pedro valora los espacios tranquilos donde poder desconectar después del trabajo y disfrutar de actividades culturales. Suele buscar información sobre lugares y eventos desde su smartphone antes de decidir si visitarlos, prestando atención al ambiente del local y a la claridad de la información disponible. Por ello, Pedro representa a un tipo de usuario interesado en descubrir espacios como La Qarmita, donde pueda combinar ocio, cultura y un ambiente relajado.
+
+
+
 
 
 ### 1.d User Journey Map
