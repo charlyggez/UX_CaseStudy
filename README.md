@@ -86,7 +86,10 @@ Aquí lo que hay que completar es una descripcion breve (de la que aun no tengo 
 
  Por una parte, tenemos a Pedro Martin:
 
- <img width="1010" height="788" alt="imagen" src="https://github.com/user-attachments/assets/94e7baeb-bbb0-4f7a-9eba-2f65b871fd09" /> <br> <br>
+ <img width="1010" height="788" alt="imagen" src="https://github.com/user-attachments/assets/94e7baeb-bbb0-4f7a-9eba-2f65b871fd09" /> 
+ 
+ <br>
+ 
 Como se puede ver, Pedro valora los espacios tranquilos donde poder desconectar después del trabajo y disfrutar de actividades culturales. Suele buscar información sobre lugares y eventos desde su smartphone antes de decidir si visitarlos, prestando atención al ambiente del local y a la claridad de la información disponible. Por ello, Pedro representa a un tipo de usuario interesado en descubrir espacios como La Qarmita, donde pueda combinar ocio, cultura y un ambiente relajado.
 
 
@@ -97,7 +100,16 @@ Como se puede ver, Pedro valora los espacios tranquilos donde poder desconectar 
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+>>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.
+
+Journey Map de Pedro:
+
+<img width="1009" height="788" alt="imagen" src="https://github.com/user-attachments/assets/8f64ecda-c8eb-485d-8954-2660fbed8bd9" />
+
+<br>
+
+
+
 
 
 ### 1.e Usability Review
