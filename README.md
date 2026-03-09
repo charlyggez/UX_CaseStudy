@@ -186,7 +186,7 @@ Aquí lo que hay que completar es una descripcion breve (de la que aun no tengo 
  <br>
 Como se puede ver, Pedro valora los espacios tranquilos donde poder desconectar después del trabajo y disfrutar de actividades culturales. Suele buscar información sobre lugares y eventos desde su smartphone antes de decidir si visitarlos, prestando atención al ambiente del local y a la claridad de la información disponible. Por ello, Pedro representa a un tipo de usuario interesado en descubrir espacios como La Qarmita, donde pueda combinar ocio, cultura y un ambiente relajado.
 
-<img width="753" height="613" alt="image" src="https://github.com/user-attachments/assets/73c67768-94ec-48d1-b847-f63369e7cd4a" />
+<img width="1124" height="704" alt="image" src="https://github.com/user-attachments/assets/e64de4cd-444e-4535-a95f-f40e6f287927" />
 
 Por otro lado, está Maria Zhang, estudiante Erasmus+ que viene desde Munich con muchas ganas de aprender de la zona, el idioma, sobre su gente y sobre todo, por el arte y la literatura de aquí.
 
@@ -207,9 +207,8 @@ Journey Map de Pedro:
 <br>
 
 Journey Map de Maria:
+
 <img width="753" height="613" alt="image" src="https://github.com/user-attachments/assets/7c391289-b6b6-4c72-99cf-bb7f41cb55ca" />
-
-
 
 <br>
 
