@@ -34,6 +34,76 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 - Detectar posibles mejoras en accesibilidad, información y experiencia del usuario.
 
+## 3 Research Methods
+
+**Qualitative research methods (Why users do that)**
+
+- Observación etnográfica en cafeterías o espacios culturales.
+
+- Entrevistas breves a usuarios interesados en eventos culturales.
+
+- Análisis del comportamiento de usuarios al buscar información sobre eventos.
+
+**Quantitative research methods (What users do)**
+
+- Encuestas online sobre hábitos de ocio y búsqueda de eventos.
+
+- Análisis de cómo los usuarios descubren eventos culturales en la ciudad.
+
+**KPI indicators**
+
+- Facilidad para encontrar información sobre eventos.
+
+- Tiempo necesario para localizar información relevante.
+
+- Interés de los usuarios en participar en actividades culturales.
+
+## 4 Research Questions
+
+- ¿Cómo descubren los usuarios eventos culturales en cafeterías o espacios similares?
+
+- ¿Qué información consideran más importante antes de asistir a un evento?
+
+- ¿Qué dificultades encuentran al buscar información sobre actividades culturales?
+
+- ¿Qué factores influyen en la decisión de asistir a un evento?
+
+## 5 Experience in this field
+
+**My personal experience**
+
+- Experiencia como usuario en cafeterías culturales o espacios con eventos.
+
+- Participación ocasional en actividades culturales en la ciudad.
+
+**My experience as designer is…**
+
+- Análisis de experiencias digitales para mejorar la accesibilidad a la información.
+
+- Observación del comportamiento de los usuarios al buscar información online.
+
+**As observer (ethnography)**
+
+- Observación del comportamiento de usuarios en cafeterías o espacios culturales.
+
+- Análisis de cómo interactúan con la información sobre eventos o actividades.
+
+**People say (empathy)**
+
+- Los usuarios valoran encontrar información clara sobre eventos y horarios.
+
+- Prefieren descubrir actividades culturales de forma sencilla y rápida.
+
+Participant Recruitment
+
+## 6 Who are the users?
+
+- Personas locales interesadas en eventos culturales.
+
+- Estudiantes universitarios que buscan actividades culturales en la ciudad.
+
+- Personas interesadas en cafeterías con eventos.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1 Descripción 
 
