@@ -94,9 +94,9 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 - Prefieren descubrir actividades culturales de forma sencilla y rápida.
 
-Participant Recruitment
+## 6 Participant Recruitment
 
-## 6 Who are the users?
+**Who are the users?**
 
 - Personas locales interesadas en eventos culturales.
 
