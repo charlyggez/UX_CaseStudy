@@ -24,6 +24,16 @@ La falta de información clara y accesible sobre los eventos, horarios y activid
 
 Mejorar la organización de la información y facilitar el acceso a los eventos podría aumentar la participación y mejorar la experiencia de los usuarios.
 
+## 2 Research Goals
+
+- Identificar cómo los usuarios descubren eventos culturales en cafeterías o espacios culturales.
+
+- Comprender qué información necesitan antes de decidir asistir a un evento.
+
+- Analizar la experiencia del usuario al buscar información sobre el local y sus actividades.
+
+- Detectar posibles mejoras en accesibilidad, información y experiencia del usuario.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1 Descripción 
 
