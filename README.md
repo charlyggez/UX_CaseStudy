@@ -202,8 +202,10 @@ Journey Map de Pedro:
 
 <br>
 
+Journey Map de Maria:
+<img width="1009" height="788" alt="imagen" src="[https://github.com/user-attachments/assets/8f64ecda-c8eb-485d-8954-2660fbed8bd9](https://github.com/charlyggez/UX_CaseStudy/blob/master/P1/Persona%20%26%20User%20Journey%20Map%20%5BDIU23%5D%20(Copy)%20(Copia)%20(1).pdf)" />
 
-
+<br>
 
 
 ### 1.e Usability Review
