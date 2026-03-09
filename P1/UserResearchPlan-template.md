@@ -10,9 +10,9 @@ Documento plantilla, adaptar al contenido que sea necesario.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project Background
+## 1 Project Background
 
-Context
+- ** Context **
 
 Este proyecto busca mejorar la experiencia de los usuarios que visitan La Qarmita, una cafetería cultural en Granada que organiza eventos, talleres y actividades relacionadas con la cultura y la sostenibilidad.
 
