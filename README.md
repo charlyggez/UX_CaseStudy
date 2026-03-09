@@ -66,7 +66,102 @@ Miembros y nombre del equipo:
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 Aqui ponemos mi experiencia con la creacion de paginas web y ademas es necesario exponer ideas de qué creo que se puede mejorar para la aplicación en específico. Hay que venderse al cliente (invent pero que tenga algo de coherencia)
->>> ver que tipo de comportamientos tenemos que analizar 
+>>> ver que tipo de comportamientos tenemos que analizar
+
+## 1 Project Background
+
+**Context**
+
+Este proyecto busca mejorar la experiencia de los usuarios que visitan La Qarmita, una cafetería cultural en Granada que organiza eventos, talleres y actividades relacionadas con la cultura y la sostenibilidad.
+
+La investigación se centra en comprender cómo los usuarios descubren estos eventos, qué información necesitan antes de asistir y qué barreras encuentran durante el proceso.
+
+**Hypothesis**
+
+La falta de información clara y accesible sobre los eventos, horarios y actividades puede dificultar que los usuarios descubran y participen en las actividades de La Qarmita.
+
+Mejorar la organización de la información y facilitar el acceso a los eventos podría aumentar la participación y mejorar la experiencia de los usuarios.
+
+## 2 Research Goals
+
+- Identificar cómo los usuarios descubren eventos culturales en cafeterías o espacios culturales.
+
+- Comprender qué información necesitan antes de decidir asistir a un evento.
+
+- Analizar la experiencia del usuario al buscar información sobre el local y sus actividades.
+
+- Detectar posibles mejoras en accesibilidad, información y experiencia del usuario.
+
+## 3 Research Methods
+
+**Qualitative research methods (Why users do that)**
+
+- Observación etnográfica en cafeterías o espacios culturales.
+
+- Entrevistas breves a usuarios interesados en eventos culturales.
+
+- Análisis del comportamiento de usuarios al buscar información sobre eventos.
+
+**Quantitative research methods (What users do)**
+
+- Encuestas online sobre hábitos de ocio y búsqueda de eventos.
+
+- Análisis de cómo los usuarios descubren eventos culturales en la ciudad.
+
+**KPI indicators**
+
+- Facilidad para encontrar información sobre eventos.
+
+- Tiempo necesario para localizar información relevante.
+
+- Interés de los usuarios en participar en actividades culturales.
+
+## 4 Research Questions
+
+- ¿Cómo descubren los usuarios eventos culturales en cafeterías o espacios similares?
+
+- ¿Qué información consideran más importante antes de asistir a un evento?
+
+- ¿Qué dificultades encuentran al buscar información sobre actividades culturales?
+
+- ¿Qué factores influyen en la decisión de asistir a un evento?
+
+## 5 Experience in this field
+
+**My personal experience**
+
+- Experiencia como usuario en cafeterías culturales o espacios con eventos.
+
+- Participación ocasional en actividades culturales en la ciudad.
+
+**My experience as designer is…**
+
+- Análisis de experiencias digitales para mejorar la accesibilidad a la información.
+
+- Observación del comportamiento de los usuarios al buscar información online.
+
+**As observer (ethnography)**
+
+- Observación del comportamiento de usuarios en cafeterías o espacios culturales.
+
+- Análisis de cómo interactúan con la información sobre eventos o actividades.
+
+**People say (empathy)**
+
+- Los usuarios valoran encontrar información clara sobre eventos y horarios.
+
+- Prefieren descubrir actividades culturales de forma sencilla y rápida.
+
+## 6 Participant Recruitment
+
+**Who are the users?**
+
+- Personas locales interesadas en eventos culturales.
+
+- Estudiantes universitarios que buscan actividades culturales en la ciudad.
+
+- Personas interesadas en cafeterías con eventos.
+
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
