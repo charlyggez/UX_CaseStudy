@@ -12,13 +12,13 @@ Documento plantilla, adaptar al contenido que sea necesario.
 
 ## 1 Project Background
 
-- **Context**
+**Context**
 
 Este proyecto busca mejorar la experiencia de los usuarios que visitan La Qarmita, una cafetería cultural en Granada que organiza eventos, talleres y actividades relacionadas con la cultura y la sostenibilidad.
 
 La investigación se centra en comprender cómo los usuarios descubren estos eventos, qué información necesitan antes de asistir y qué barreras encuentran durante el proceso.
 
-- **Hypothesis**
+**Hypothesis**
 
 La falta de información clara y accesible sobre los eventos, horarios y actividades puede dificultar que los usuarios descubran y participen en las actividades de La Qarmita.
 
