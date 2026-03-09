@@ -229,15 +229,21 @@ Journey Map de Maria:
 - Puntos fuertes detectados:
 
   I. Información clara y comprensible
+  
   II. Contenido cultural relevante
+  
   III. Imagenes del local y eventos
 
 - Punto débiles detectados:
 
   I. Diseño anticuado
+  
   II. Mapa no interactivo
+  
   III. Escasa interacción con redes sociales
+  
   IV. Ayuda y contacto poco visibles
+  
   V. Falta de funcionalidades importantes (registro de eventos, reservas)
 
 <br>
