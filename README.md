@@ -195,9 +195,11 @@ A continuacion mostramos la tabla de análisis competitivo, donde se comparan al
  <br>
 Como se puede ver, Pedro valora los espacios tranquilos donde poder desconectar después del trabajo y disfrutar de actividades culturales. Suele buscar información sobre lugares y eventos desde su smartphone antes de decidir si visitarlos, prestando atención al ambiente del local y a la claridad de la información disponible. Por ello, Pedro representa a un tipo de usuario interesado en descubrir espacios como La Qarmita, donde pueda combinar ocio, cultura y un ambiente relajado.
 
+Por otro lado, está Maria Zhang, estudiante Erasmus+ que viene a Granada desde Munich con muchas ganas de aprender de la zona, el idioma, sobre su gente y sobre todo, por el arte y la literatura de aquí.
+
 <img width="1124" height="704" alt="image" src="https://github.com/user-attachments/assets/e64de4cd-444e-4535-a95f-f40e6f287927" />
 
-Por otro lado, está Maria Zhang, estudiante Erasmus+ que viene a Granada desde Munich con muchas ganas de aprender de la zona, el idioma, sobre su gente y sobre todo, por el arte y la literatura de aquí. Maria es joven y tiene muchas ganas de aprender y llevar a cabo una inmersión profunda en la cultura de la ciudad, por lo que le gustaría estar al tanto de los eventos que ofrece el establecimiento mientras disfruta de un café por las tardes. Es un tipo de usuario interesante ya que al ser extranjera y además vegana, sus necesidades son un poco más específicas que otros usuarios (en relación a los idiomas e información que ofrece la página).
+Maria es joven y tiene muchas ganas de aprender y llevar a cabo una inmersión profunda en la cultura de la ciudad, por lo que le gustaría estar al tanto de los eventos que ofrece el establecimiento mientras disfruta de un café por las tardes. Es un tipo de usuario interesante ya que al ser extranjera y además vegana, sus necesidades son un poco más específicas que otros usuarios (en relación a los idiomas e información que ofrece la página).
 
 
 
