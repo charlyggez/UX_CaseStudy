@@ -7,7 +7,7 @@
 
 -----
 
-#### 1 Project Background
+#### · 1 Project Background
 
 **Context**
 
@@ -21,7 +21,7 @@ La falta de información clara y accesible sobre los eventos, horarios y activid
 
 Mejorar la organización de la información y facilitar el acceso a los eventos podría aumentar la participación y mejorar la experiencia de los usuarios.
 
-## 2 Research Goals
+#### · 2 Research Goals
 
 - Identificar cómo los usuarios descubren eventos culturales en cafeterías o espacios culturales.
 
@@ -31,7 +31,7 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 - Detectar posibles mejoras en accesibilidad, información y experiencia del usuario.
 
-## 3 Research Methods
+#### · 3 Research Methods
 
 **Qualitative research methods (Why users do that)**
 
@@ -55,7 +55,7 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 - Interés de los usuarios en participar en actividades culturales.
 
-## 4 Research Questions
+#### · 4 Research Questions
 
 - ¿Cómo descubren los usuarios eventos culturales en cafeterías o espacios similares?
 
@@ -67,7 +67,7 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
  
 - ¿Se ofrece la información necesaria de los productos que se ofrecen?
 
-## 5 Experience in this field
+#### · 5 Experience in this field
 
 **My personal experience**
 
@@ -93,7 +93,7 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 - Prefieren descubrir actividades culturales de forma sencilla y rápida.
 
-## 6 Participant Recruitment
+#### · 6 Participant Recruitment
 
 **Who are the users?**
 
