@@ -4,7 +4,7 @@
 <br>
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
+
 -----
 
 ## 1 Project Background
@@ -105,7 +105,7 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
+
 -----
 
 Hemos seleccionado a “La Qarmita: libros, café y eventos” como la cafetería para realizar el estudio debido a que creemos que tiene numerosas características a mejorar en cuanto a diseño, lo que la hace un buen objeto de estudio. Su web está en formato cuenta de Blogspot, lo que limita mucho la capacidad de trabajo y no ofrece las posibilidades para mucha mejora.
@@ -118,7 +118,7 @@ A continuacion mostramos la tabla de análisis competitivo, donde se comparan al
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
+
 -----
 
  Para este apartado utilizaremos dos personas con un perfil ideal para este sector.
@@ -143,7 +143,7 @@ Maria es joven y tiene muchas ganas de aprender y llevar a cabo una inmersión p
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+
 ----
 
 Journey Map de Pedro:
@@ -160,7 +160,7 @@ Journey Map de Maria:
 
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
+
 ----
 
 - Enlace al documento pdf: 
