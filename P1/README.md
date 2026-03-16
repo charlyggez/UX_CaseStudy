@@ -163,7 +163,7 @@ Journey Map de Maria:
 
 ----
 
-- Enlace al documento pdf: 
+- Enlace al documento pdf: P1/Usability-review-template.pdf
 
 - Valoración numérica obtenida: 60 (moderate)
 
