@@ -125,6 +125,8 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 - ¿Qué dificultades encuentran al buscar información sobre actividades culturales?
 
 - ¿Qué factores influyen en la decisión de asistir a un evento?
+ 
+- ¿Se ofrece la información necesaria de los productos que se ofrecen?
 
 ## 5 Experience in this field
 
@@ -148,7 +150,7 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 **People say (empathy)**
 
-- Los usuarios valoran encontrar información clara sobre eventos y horarios.
+- Los usuarios valoran encontrar información clara sobre eventos, horarios y carta de productos.
 
 - Prefieren descubrir actividades culturales de forma sencilla y rápida.
 
