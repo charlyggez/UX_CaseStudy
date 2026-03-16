@@ -188,7 +188,7 @@ Como se puede ver, Pedro valora los espacios tranquilos donde poder desconectar 
 
 <img width="1124" height="704" alt="image" src="https://github.com/user-attachments/assets/e64de4cd-444e-4535-a95f-f40e6f287927" />
 
-Por otro lado, está Maria Zhang, estudiante Erasmus+ que viene desde Munich con muchas ganas de aprender de la zona, el idioma, sobre su gente y sobre todo, por el arte y la literatura de aquí.
+Por otro lado, está Maria Zhang, estudiante Erasmus+ que viene a Granada desde Munich con muchas ganas de aprender de la zona, el idioma, sobre su gente y sobre todo, por el arte y la literatura de aquí.
 
 
 
