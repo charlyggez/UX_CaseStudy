@@ -163,7 +163,7 @@ Journey Map de Maria:
 
 ----
 
-- Enlace al documento pdf: P1/Usability-review-template.pdf
+- Enlace al documento pdf: [P1/Usability-review-template.pdf](https://github.com/charlyggez/UX_CaseStudy/blob/master/P1/Usability-review-template.pdf)
 
 - Valoración numérica obtenida: 60 (moderate)
 
