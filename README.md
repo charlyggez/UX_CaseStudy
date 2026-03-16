@@ -169,7 +169,16 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 Aquí lo que hay que completar es una descripcion breve (de la que aun no tengo mucha idea), cosas específicas que tiene la página, a lo mejor, que es lo que puede faltar. Cafeteria objetivo
->>> Analizar caracteristicas con respecto a otra. Que es lo quee le hace unico y ue es lo que le falta (ej:logotipos, imagen de marca, cuestiones funcionales, como llegar a ella...) Para que publico esta pensada. 
+>>> Analizar caracteristicas con respecto a otra. Que es lo quee le hace unico y ue es lo que le falta (ej:logotipos, imagen de marca, cuestiones funcionales, como llegar a ella...) Para que publico esta pensada.
+
+Hemos seleccionado a “La Qarmita: libros, café y eventos” como la cafetería para realizar el estudio debido a que creemos que tiene numerosas características a mejorar en cuanto a diseño, lo que la hace un buen objeto de estudio. Su web está en formato cuenta de Blogspot, lo que limita mucho la capacidad de trabajo y no ofrece las posibilidades para mucha mejora.
+
+Vamos a realizar un estudio de análisis competitivo en el que vamos a comparar esta cafetería con otras dos localizadas en Granada: Mimimi e Ysla. La primera no dispone de una web como tal, si no un perfil de Facebook mientras que Ysla es una cadena de cafeterías con varias localizaciones en Granada, por lo que se nota que disponen de el presupuesto necesario como para hacer una página web propia. Esta dualidad consideramos que es oportuna para hacer las comparaciones con nuestra elección.
+
+A continuacion mostramos la tabla de análisis competitivo, donde se comparan algunas características que ofrecen los portales:
+
+![Competitor Analysis  DIU23  (Copy) (Copia)](https://github.com/user-attachments/assets/bf7a9177-7a0d-437f-9679-5a1e92f9c380)
+
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
@@ -188,7 +197,7 @@ Como se puede ver, Pedro valora los espacios tranquilos donde poder desconectar 
 
 <img width="1124" height="704" alt="image" src="https://github.com/user-attachments/assets/e64de4cd-444e-4535-a95f-f40e6f287927" />
 
-Por otro lado, está Maria Zhang, estudiante Erasmus+ que viene a Granada desde Munich con muchas ganas de aprender de la zona, el idioma, sobre su gente y sobre todo, por el arte y la literatura de aquí.
+Por otro lado, está Maria Zhang, estudiante Erasmus+ que viene a Granada desde Munich con muchas ganas de aprender de la zona, el idioma, sobre su gente y sobre todo, por el arte y la literatura de aquí. Maria es joven y tiene muchas ganas de aprender y llevar a cabo una inmersión profunda en la cultura de la ciudad, por lo que le gustaría estar al tanto de los eventos que ofrece el establecimiento mientras disfruta de un café por las tardes. Es un tipo de usuario interesante ya que al ser extranjera y además vegana, sus necesidades son un poco más específicas que otros usuarios (en relación a los idiomas e información que ofrece la página).
 
 
 
