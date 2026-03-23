@@ -12,8 +12,12 @@
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix
+
 * User/Task flow
+
+Task Flow sobre Traducir Página
+<img width="636" height="312" alt="Flowmaps_Cover" src="https://github.com/user-attachments/assets/a630cdf2-f900-495f-a367-60620bdaf0d5" />
 
 
 ### ARQUITECTURA DE INFORMACIÓN
