@@ -293,7 +293,8 @@ Journey Map de Maria:
 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
+![Método UX](P2/flowmap2.png) 
+![Método UX](P2/Flowmaps_Cover.png) 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
