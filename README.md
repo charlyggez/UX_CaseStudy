@@ -284,7 +284,7 @@ Journey Map de Maria:
 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
+![ScopeCanvas](P2/ScopeCanvas.png)
 ----
 
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
