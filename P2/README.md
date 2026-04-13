@@ -3,10 +3,9 @@
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/Feedback Capture Grid.png) 
-----
+![Método UX](Feedback Capture Grid.png) 
+
 ![Método UX](Empathy Customer Map.png) 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
  Interesante | Críticas     
