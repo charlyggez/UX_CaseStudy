@@ -301,7 +301,7 @@ Journey Map de Maria:
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
+![Método UX](P2/Sitemap.png) 
 ----
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
@@ -320,7 +320,10 @@ Término | Significado
 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
+![Método UX](P2/wireframe_movil_inicio.png) 
+![Método UX](P2/wireframe_movil_eventos.png) 
+![Método UX](P2/wireframe_movil_menu.png) 
+![Método UX](P2/wireframe_pc_inicio.png) 
 -----
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
