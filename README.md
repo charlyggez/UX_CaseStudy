@@ -321,15 +321,19 @@ Término | Significado
 
 ### 2.d Wireframes
 Inicio en móvil:
+
 ![Método UX](P2/wireframes_movil_inicio.png) 
 
 Eventos en móvil:
+
 ![Método UX](P2/wireframes_movil_eventos.png) 
 
 Menú en móvil: 
+
 ![Método UX](P2/wireframes_movil_menu.png) 
 
 Inicio en PC:
+
 ![Método UX](P2/wireframe_pc_inicio.png) 
 -----
 
