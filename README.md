@@ -308,15 +308,15 @@ Journey Map de Maria:
 
 Término | Significado     
 | ------------- | -------
-  Página de inicio  | acceder a plataforma
-   Sobre Nosotros  | acceder a plataforma
-     Historia  | acceder a plataforma
-       Eventos  | acceder a plataforma
-         Próximos Eventos  | acceder a plataforma
-           Calendario Reserva  | acceder a plataforma
-             Menú  | acceder a plataforma
-               Localización  | acceder a plataforma
-                 Contacto  | acceder a plataforma
+  Página de inicio  | Página que da acceso al resto de funcionalidades de la web
+  Sobre Nosotros  | Sección dedicada a la filosofía de la cafetería, sus valores y el equipo.
+  Historia  | Narrativa sobre los orígenes de la cafetería, la selección de los productos y la trayectoria.
+  Eventos  | Espacio informativo sobre las actividades culturales, exposiciones y otros sucesos
+  Próximos Eventos  | Listado de Eventos que acontecerán en las próximas semanas con sus descripciones
+  Calendario Reserva  | Herramienta interactiva para que los clientes se inscriban en eventos específicos rellenando con sus datos personales a tarvés del Formulario Reserva.
+  Menú  | Carta digital detallada con precios, alérgenos y categorías (bebidas, para picar, tartas y postres, snacks latinos).
+  Localización  | Información geográfica, mapa interactiva de Google Maps y detalles sobre cómo llegar al local.
+  Contacto  | Formulario de consultas, enlaces a redes sociales, teléfono y horario de atención al cliente.
 
 
 ### 2.d Wireframes
