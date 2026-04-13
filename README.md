@@ -328,14 +328,9 @@ Eventos en móvil:
 
 ![Método UX](P2/wireframes_movil_eventos.png) 
 
-Menú en móvil: 
+Carta en móvil: 
 
 ![Método UX](P2/wireframes_movil_menu.png) 
-
-Inicio en PC:
-
-![Método UX](P2/wireframe_pc_inicio.png) 
------
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
