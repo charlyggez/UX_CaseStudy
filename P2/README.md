@@ -3,9 +3,9 @@
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](Feedback Capture Grid.png) 
+![Método UX](Feedback_Capture_Grid.png) 
 
-![Método UX](Empathy Customer Map.png) 
+![Método UX](Empathy_Customer_Map.png) 
 
 
  Interesante | Críticas     
