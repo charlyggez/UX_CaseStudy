@@ -308,7 +308,15 @@ Journey Map de Maria:
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
+  Página de inicio  | acceder a plataforma
+   Sobre Nosotros  | acceder a plataforma
+     Historia  | acceder a plataforma
+       Eventos  | acceder a plataforma
+         Próximos Eventos  | acceder a plataforma
+           Calendario Reserva  | acceder a plataforma
+             Menú  | acceder a plataforma
+               Localización  | acceder a plataforma
+                 Contacto  | acceder a plataforma
 
 
 ### 2.d Wireframes
