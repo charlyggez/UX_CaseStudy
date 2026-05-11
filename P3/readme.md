@@ -1,6 +1,8 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
+# Moodboard
+
+
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
 
