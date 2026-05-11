@@ -10,9 +10,5 @@ La paleta pone el ambiente (calidez), la tipografía pone la voz (cultura) y el 
 ## Moockup
 ![MOCKUP](mockup.png)
 
-Queremos trasmitir esa tranquilidad de sentarse a leer mientras tomas un cafe por eso los colores no son llamativos, los botones y la información importante están a simple vista. El uso de la app es muy sencillo para no que el usuario tenga mucha facilidad a la hora de informarse y resevar algún evento.
+Queremos trasmitir esa tranquilidad de sentarse a leer mientras tomas un café por eso los colores no son llamativos, los botones y la información importante están a simple vista. El uso de la app es muy sencillo para no que el usuario tenga mucha facilidad a la hora de informarse y resevar algún evento.
 
-## Conclusiones
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
