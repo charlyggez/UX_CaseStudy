@@ -1,6 +1,8 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard
+![MOODBOARD](moodboard.png)
+
 
 
 - Mockup: LAYOUT HI-FI
