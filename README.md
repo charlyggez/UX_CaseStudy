@@ -23,15 +23,15 @@ Actualizado: 14/01/2026
 >>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
-Grupo: DIUx_AABB.  Curso: 2025/26 
+Grupo: DIU2_Monki.  Curso: 2025/26 
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+La Qarmita
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Dar a conocer La Qarmita mejorando su parte digital sin perder la esencia de la misma
 
 Logotipo: 
 
