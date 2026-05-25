@@ -252,27 +252,27 @@ Journey Map de Maria:
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 
 
-![Método UX](Empathy_Customer_Map.png) 
+![Método UX](P2/Empathy_Customer_Map.png) 
 
 
-![Método UX](Feedback_Capture_Grid.png) 
+![Método UX](P2/Feedback_Capture_Grid.png) 
 
 ### 2.b ScopeCanvas
-![ScopeCanvas](scopecanvas.png)
+![ScopeCanvas](P2/scopecanvas.png)
 ----
 
 
 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](flowmap2.png) 
-![Método UX](Flowmaps_Cover.png) 
+![Método UX](P2/flowmap2.png) 
+![Método UX](P2/Flowmaps_Cover.png) 
 -----
 
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](Sitemap.png) 
+![Método UX](P2/Sitemap.png) 
 ----
 
 
@@ -297,11 +297,11 @@ Inicio en móvil:
 
 Eventos en móvil:
 
-![Método UX](wireframes_movil_eventos.png) 
+![Método UX](P2/wireframes_movil_eventos.png) 
 
 Carta en móvil: 
 
-![Método UX](wireframes_movil_menu.png) 
+![Método UX](P2/wireframes_movil_menu.png) 
 
 
 <br>
