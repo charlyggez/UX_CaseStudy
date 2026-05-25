@@ -303,45 +303,21 @@ Carta en móvil:
 
 ![Método UX](P2/wireframes_movil_menu.png) 
 
-
-<br>
-
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+## Moodboard
+![MOODBOARD](P3/moodboard.png)
 
+"La Qarmita" es una marca que busca digitalizar la calidez de una biblioteca antigua. El diseño debe transmitir que no solo vas a tomar un café, sino a habitar un refugio cultural. Visualmente, el proyecto debe sentirse orgánico, intelectual y pausado.
+<br><br>
+La paleta pone el ambiente (calidez), la tipografía pone la voz (cultura) y el logo pone la identidad (café + libros). Juntos, crean una experiencia que el usuario percibe como un "refugio" frente al caos digital.
 
-### 3.a Moodboard
-![Método UX](img/moodboard.png)
------
+## Mockup
+![MOCKUP](P3/mockup.png)
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
-
-
-### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
-
-
-### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
-
-### 3.d Mockup
-![Método UX](img/mockup.png) 
-----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Queremos trasmitir esa tranquilidad de sentarse a leer mientras tomas un café por eso los colores no son llamativos, los botones y la información importante están a simple vista. El uso de la app es muy sencillo para que el usuario tenga una gran facilidad a la hora de informarse y resevar algún evento.
 
 
 <br>
