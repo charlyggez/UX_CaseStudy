@@ -76,3 +76,13 @@ Haciendo las cuentas de la encuesta (donde las preguntas negativas restan y las 
 2. **Los dos son muy buenos:** Ninguno de los dos diseños baja de los 82 puntos, lo que significa que ambos están muy bien hechos y no confunden a la gente.
 
 ---
+
+## 6. Conclusiones y Recomendaciones
+
+A continuación, se clasifican las propuestas de mejora técnica y diseño según su nivel de prioridad tras analizar conjuntamente los datos de usabilidad cuantitativos obtenidos en el cuestionario SUS y el perfil de los participantes reclutados:
+
+| Prioridad | Hallazgo | Recomendación de Mejora |
+| :--- | :--- | :--- |
+| **Alta (Crítica)** | El Método B (SushiMakiTeriyaki) logró una nota sobresaliente (**91.25**) y una experiencia perfecta de 100 pts en uno de los usuarios, superando al Método A (**88.33**). | **Adoptar el Método B como diseño definitivo** para el despliegue de la web, ya que demostró una menor carga cognitiva y una asimilación más rápida en el flujo principal. |
+| **Media** | Los usuarios de mayor edad (ID 2 de 64 años y ID 3 de 63 años) o con menor competencia técnica puntuaron ligeramente más bajo en las preguntas sobre complejidad (P2 y P10). | Revisar el tamaño de las fuentes, los contrastes de los menús y simplificar los pasos iniciales para garantizar que los **adultos mayores o perfiles menos tecnológicos** naveguen sin fricción. |
+| **Baja** | Aunque la confianza general fue alta (P9), se detectaron pequeñas dudas en las preguntas pares del Método A, indicando leves inconsistencias en algunos componentes visuales. | Homogeneizar el diseño de los botones, enlaces y formularios del sitio tomando como base los componentes del Método B, eliminando cualquier elemento que pueda distraer o parecer redundante. |
