@@ -15,6 +15,19 @@ Video de uso de la app:
 Puntos fuertes y de mejora relativos a los criterios de accesibilidad de tu diseño
 - Conclusiones
 
+## Plan de reclutamiento de participantes
+
+| ID | Edad | Género | Competencia | Gafas | Exp previa | Exps apps | Grupo |
+| :-: | :-: | :---: | :--- | :-: | :-: | :-: | :-: |
+| 1 | 26 | Hombre | Alto | no | No | Si | B |
+| 2 | 64 | Mujer | Medio/alto | si | No | Si | A |
+| 3 | 63 | Hombre | Bajo/medio | no | no | no | A |
+| 4 | 25 | Hombre | Medio/alto | No | No | Si | A |
+| 5 | 21 | ND | Medio | Si | NO | Si | A |
+| 6 | 26 | Mujer | Medio/alto | No | NO | Si | B |
+| 7 | 20 | Mujer | Medio | Si | No | Si | B |
+| 8 | 54 | Mujer | Bajo/medio | No | NO | No | B |
+
 ## Escala SUS
 
 | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Método A/B Testing |
