@@ -55,20 +55,16 @@ Miembros y nombre del equipo:
 
 <br>
 
-## Paso 1. UX User & Desk Research & Analisis 
+## DIU - Practica1, entregables
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
+<br>
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
+
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-Aqui ponemos mi experiencia con la creacion de paginas web y ademas es necesario exponer ideas de qué creo que se puede mejorar para la aplicación en específico. Hay que venderse al cliente (invent pero que tenga algo de coherencia)
->>> ver que tipo de comportamientos tenemos que analizar
-
-## 1 Project Background
+#### · 1 Project Background
 
 **Context**
 
@@ -82,7 +78,7 @@ La falta de información clara y accesible sobre los eventos, horarios y activid
 
 Mejorar la organización de la información y facilitar el acceso a los eventos podría aumentar la participación y mejorar la experiencia de los usuarios.
 
-## 2 Research Goals
+#### · 2 Research Goals
 
 - Identificar cómo los usuarios descubren eventos culturales en cafeterías o espacios culturales.
 
@@ -92,7 +88,7 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 - Detectar posibles mejoras en accesibilidad, información y experiencia del usuario.
 
-## 3 Research Methods
+#### · 3 Research Methods
 
 **Qualitative research methods (Why users do that)**
 
@@ -116,7 +112,7 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 - Interés de los usuarios en participar en actividades culturales.
 
-## 4 Research Questions
+#### · 4 Research Questions
 
 - ¿Cómo descubren los usuarios eventos culturales en cafeterías o espacios similares?
 
@@ -128,7 +124,7 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
  
 - ¿Se ofrece la información necesaria de los productos que se ofrecen?
 
-## 5 Experience in this field
+#### · 5 Experience in this field
 
 **My personal experience**
 
@@ -154,7 +150,7 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 - Prefieren descubrir actividades culturales de forma sencilla y rápida.
 
-## 6 Participant Recruitment
+#### · 6 Participant Recruitment
 
 **Who are the users?**
 
@@ -166,12 +162,8 @@ Mejorar la organización de la información y facilitar el acceso a los eventos 
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
------
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
-Aquí lo que hay que completar es una descripcion breve (de la que aun no tengo mucha idea), cosas específicas que tiene la página, a lo mejor, que es lo que puede faltar. Cafeteria objetivo
->>> Analizar caracteristicas con respecto a otra. Que es lo quee le hace unico y ue es lo que le falta (ej:logotipos, imagen de marca, cuestiones funcionales, como llegar a ella...) Para que publico esta pensada.
+-----
 
 Hemos seleccionado a “La Qarmita: libros, café y eventos” como la cafetería para realizar el estudio debido a que creemos que tiene numerosas características a mejorar en cuanto a diseño, lo que la hace un buen objeto de estudio. Su web está en formato cuenta de Blogspot, lo que limita mucho la capacidad de trabajo y no ofrece las posibilidades para mucha mejora.
 
@@ -183,10 +175,8 @@ A continuacion mostramos la tabla de análisis competitivo, donde se comparan al
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
------
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
+-----
 
  Para este apartado utilizaremos dos personas con un perfil ideal para este sector.
 
@@ -210,10 +200,8 @@ Maria es joven y tiene muchas ganas de aprender y llevar a cabo una inmersión p
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
-----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.
+----
 
 Journey Map de Pedro:
 
@@ -229,15 +217,10 @@ Journey Map de Maria:
 
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
+
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
-
-- Enlace al documento pdf:
+- Enlace al documento pdf: [Usability-review](https://github.com/charlyggez/UX_CaseStudy/blob/master/P1/Usability-review-template.pdf)
 
 - Valoración numérica obtenida: 60 (moderate)
 
@@ -260,6 +243,9 @@ Journey Map de Maria:
   IV. Ayuda y contacto poco visibles
   
   V. Falta de funcionalidades importantes (registro de eventos, reservas)
+
+<br>
+
 
 <br>
 
