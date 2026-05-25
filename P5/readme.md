@@ -69,6 +69,7 @@ Haciendo las cuentas de la encuesta (donde las preguntas negativas restan y las 
 | 4 | 1 | 5 | 1 | 5 | 3 | 5 | 1 | 5 | 1 | A. Qarmita | **92.5** |
 | 3 | 1 | 5 | 1 | 3 | 2 | 5 | 1 | 5 | 1 | A. Qarmita | **87.5** |
 | 5 | 1 | 4 | 1 | 4 | 3 | 5 | 2 | 4 | 1 | A. Qarmita | **85.0** |
+| 4 | 1 | 4 | 1 | 4 | 2 | 3 | 2 | 5 | 1 | A. Qarmita | **85.0** |
 
 ### Cosas importantes que notamos:
 1. **Un 100 perfecto:** El segundo usuario que probó el **Método B** le dio la nota máxima. Significa que le pareció un paseo y no tuvo ningún problema para entender la web.
