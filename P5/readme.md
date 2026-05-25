@@ -10,19 +10,21 @@ Video de uso de la app:
 ## [VIDEO](diseño_final.webm)
 
 <br>
+# Reporte del Test de Usuarios (A/B Testing)
+**¿Qué diseño funciona mejor en nuestra web?**
 
-## 1. Resumen Ejecutivo
-Este informe detalla el análisis del perfil de los participantes reclutados y la posterior evaluación de usabilidad mediante la **Escala de Usabilidad del Sistema (SUS)** para dos alternativas de diseño: **Método A (Qarmita)** y **Método B (SushiMakiTeriyaki)**. Los datos demuestran que ambas propuestas superan con creces la media de la industria (establecida en 68 puntos), posicionándose en un rango de excelencia.
+## 1. De qué trata este reporte
+Hicimos una prueba con usuarios reales para comparar dos diseños de nuestra web: el **Método A (Qarmita)** y el **Método B (SushiMakiTeriyaki)**. Queríamos saber cuál de los dos es más fácil y cómodo de usar. 
+
+Para medirlo, usamos una encuesta estándar llamada **SUS** (donde cualquier nota por encima de 68 puntos significa que la web está aprobada y es fácil de usar).
 
 ---
 
-## 2. Análisis del Plan de Reclutamiento
-La muestra seleccionada está compuesta por un grupo diverso de 8 participantes, mitigando de forma óptima sesgos demográficos o de experiencia digital previa:
-* **Diversidad de Perfiles:** Incluye un rango de edad amplio (de 20 a 64 años) y un equilibrio de géneros (4 Mujeres, 3 Hombres, 1 No Definido).
-* **Competencia Técnica:** Los niveles de los usuarios varían de forma balanceada desde "Alto" hasta "Bajo/medio", asegurando que la interfaz haya sido testeada tanto por usuarios expertos como por perfiles que requieren mayor accesibilidad.
+## 2. Quiénes participaron en la prueba
+Reclutamos a 8 personas con perfiles muy variados (jóvenes de 20 años, adultos de más de 60, hombres, mujeres y gente que sabe usar mucho el móvil junto a otros que no tanto). Esto nos asegura que la web funcione bien para todo el mundo.
 
-### Tabla: Muestra de Participantes Reclutados
-| ID | Edad | Género | Competencia | Gafas | Exp previa | Exps apps | Grupo |
+### Lista de participantes
+| ID | Edad | Género | ¿Qué tanto sabe de tecnología? | ¿Usa gafas? | ¿Tenía experiencia previa? | ¿Usa apps seguido? | Grupo asignado |
 | :-: | :-: | :---: | :--- | :-: | :-: | :-: | :-: |
 | 1 | 26 | Hombre | Alto | no | No | Si | B |
 | 2 | 64 | Mujer | Medio/alto | si | No | Si | A |
@@ -35,8 +37,8 @@ La muestra seleccionada está compuesta por un grupo diverso de 8 participantes,
 
 ---
 
-## 3. Instrumento de Evaluación: Reactivos SUS
-El cuestionario aplicado a los participantes constó de las siguientes 10 preguntas estándar de la Escala SUS (puntuadas de 1: Totalmente en desacuerdo, a 5: Totalmente de acuerdo):
+## 3. Las preguntas que les hicimos
+Cada usuario respondió a estas 10 frases puntuando del 1 (Totalmente en desacuerdo) al 5 (Totalmente de acuerdo):
 
 * **P1:** Creo que me gustará visitar con frecuencia este website.
 * **P2:** Encontré el website innecesariamente complejo.
@@ -49,17 +51,16 @@ El cuestionario aplicado a los participantes constó de las siguientes 10 pregun
 * **P9:** Me sentí muy confiado en el manejo del website.
 * **P10:** Necesito aprender muchas cosas antes de manejarme en el website.
 
-> 💡 **Nota metodológica sobre el cálculo:** Para obtener la puntuación final estandarizada (0-100), el valor de los reactivos impares (positivos) se calcula como $(Valor - 1)$ y el de los reactivos pares (negativos) como $(5 - Valor)$. La suma de todos los puntajes transformados se multiplica por $2.5$.
-
 ---
 
-## 4. Resultados de Usabilidad
-### Métricas Globales
-* **MÉTODO A (Qarmita):** Puntuación Promedio de **88.33 / 100** ➔ **Excelente (Grado A)**
-* **MÉTODO B (SushiMakiTeriyaki):** Puntuación Promedio de **91.25 / 100** ➔ **Excelente / Sobresaliente (Grado A+)**
+## 4. Los Resultados (Puntuación sobre 100)
+Haciendo las cuentas de la encuesta (donde las preguntas negativas restan y las positivas suman), estas fueron las notas finales:
 
-### Tabla: Resultados de la Escala SUS Calculada
-| P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Método A/B Testing | Score SUS |
+* **MÉTODO A (Qarmita):** Nota promedio de **88.33 / 100** ➔ **Excelente**
+* **MÉTODO B (SushiMakiTeriyaki):** Nota promedio de **91.25 / 100** ➔ **Sobresaliente**
+
+### Tabla de notas por usuario
+| P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Diseño evaluado | Nota Final |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
 | 3 | 1 | 5 | 1 | 4 | 2 | 4 | 2 | 4 | 1 | B. SushiMakiTeriyaki | **82.5** |
 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | B. SushiMakiTeriyaki | **100.0** |
@@ -69,11 +70,13 @@ El cuestionario aplicado a los participantes constó de las siguientes 10 pregun
 | 3 | 1 | 5 | 1 | 3 | 2 | 5 | 1 | 5 | 1 | A. Qarmita | **87.5** |
 | 5 | 1 | 4 | 1 | 4 | 3 | 5 | 2 | 4 | 1 | A. Qarmita | **85.0** |
 
-### Hallazgos Clave
-1. **Puntaje Perfecto:** El segundo registro del **Método B** obtuvo una puntuación perfecta de **100.0 pts**, lo cual indica que la experiencia de uso fue completamente fluida, intuitiva y carente de frustraciones.
-2. **Consistencia:** El **Método A** demostró una consistencia muy alta sin fluctuaciones graves (rango de 85 a 92.5), validando que es una estructura sólida y segura para el usuario general.
+### Cosas importantes que notamos:
+1. **Un 100 perfecto:** El segundo usuario que probó el **Método B** le dio la nota máxima. Significa que le pareció un paseo y no tuvo ningún problema para entender la web.
+2. **Los dos son muy buenos:** Ninguno de los dos diseños baja de los 82 puntos, lo que significa que ambos están muy bien hechos y no confunden a la gente.
 
 ---
 
-## 5. Conclusión y Recomendación General
-Se aconseja **proceder con la implementación definitiva del Método B (SushiMakiTeriyaki)**. Aunque ambas opciones se ubican muy por encima de la media del mercado, el Método B maximiza la satisfacción del usuario y minimiza la carga cognitiva, registrando un promedio superior de **91.25 puntos**. Los valores mínimos en las respuestas de ítems de frustración (como P2, P4 y P6) ratifican que los flujos no presentan cuellos de botella críticos.
+## 5. Conclusión: ¿Cuál elegimos?
+Los dos diseños son buenísimos, pero **nos quedamos con el Método B (SushiMakiTeriyaki)**. 
+
+La gente lo puntuó un poco más alto (91.25 frente a 88.33) y casi nadie sintió que la web fuera confusa o que necesitara ayuda para usarla. Es la opción ganadora.
