@@ -9,11 +9,7 @@ Video de uso de la app:
 
 ## [VIDEO](diseño_final.webm)
 
-- Exportación a HTML/React
-- Documentación con Storybook
-- Autoevaluacion del diseño 
-Puntos fuertes y de mejora relativos a los criterios de accesibilidad de tu diseño
-- Conclusiones
+<br>
 
 ## 1. Resumen Ejecutivo
 Este informe detalla el análisis del perfil de los participantes reclutados y la posterior evaluación de usabilidad mediante la **Escala de Usabilidad del Sistema (SUS)** para dos alternativas de diseño: **Método A (Qarmita)** y **Método B (SushiMakiTeriyaki)**. Los datos demuestran que ambas propuestas superan con creces la media de la industria (establecida en 68 puntos), posicionándose en un rango de excelencia.
