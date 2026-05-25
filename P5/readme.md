@@ -9,8 +9,7 @@ Video de uso de la app:
 
 ## [VIDEO](diseño_final.webm)
 
-<br>
-# Reporte del Test de Usuarios (A/B Testing)
+<br> 
 **¿Qué diseño funciona mejor en nuestra web?**
 
 ## 1. De qué trata este reporte
