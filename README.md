@@ -35,7 +35,7 @@ Dar a conocer La Qarmita mejorando su parte digital sin perder la esencia de la 
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<img width="338" height="302" alt="imagen" src="https://github.com/user-attachments/assets/6ad2bcfc-6f83-4514-bb7e-3c58f84902cc" />
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  AA     :octocat:     
