@@ -292,7 +292,7 @@ Término | Significado
 ### 2.d Wireframes
 Inicio en móvil:
 
-![Método UX](wireframes_movil_inicio.png) 
+![Método UX](P2/wireframes_movil_inicio.png) 
 
 
 Eventos en móvil:
