@@ -79,10 +79,10 @@ Haciendo las cuentas de la encuesta (donde las preguntas negativas restan y las 
 
 ## 6. Conclusiones y Recomendaciones
 
-A continuación, se clasifican las propuestas de mejora técnica y diseño según su nivel de prioridad tras analizar conjuntamente los datos de usabilidad cuantitativos obtenidos en el cuestionario SUS y el perfil de los participantes reclutados:
+Aquí dejamos los cambios y mejoras que debemos hacer, ordenados por importancia (desde lo más urgente hasta lo que puede esperar), basándonos en las notas que nos dieron los usuarios en las encuestas:
 
-| Prioridad | Hallazgo | Recomendación de Mejora |
+| Importancia | ¿Qué descubrimos? | ¿Qué recomendamos hacer? |
 | :--- | :--- | :--- |
-| **Alta (Crítica)** | El Método B (SushiMakiTeriyaki) logró una nota sobresaliente (**91.25**) y una experiencia perfecta de 100 pts en uno de los usuarios, superando al Método A (**88.33**). | **Adoptar el Método B como diseño definitivo** para el despliegue de la web, ya que demostró una menor carga cognitiva y una asimilación más rápida en el flujo principal. |
-| **Media** | Los usuarios de mayor edad (ID 2 de 64 años y ID 3 de 63 años) o con menor competencia técnica puntuaron ligeramente más bajo en las preguntas sobre complejidad (P2 y P10). | Revisar el tamaño de las fuentes, los contrastes de los menús y simplificar los pasos iniciales para garantizar que los **adultos mayores o perfiles menos tecnológicos** naveguen sin fricción. |
-| **Baja** | Aunque la confianza general fue alta (P9), se detectaron pequeñas dudas en las preguntas pares del Método A, indicando leves inconsistencias en algunos componentes visuales. | Homogeneizar el diseño de los botones, enlaces y formularios del sitio tomando como base los componentes del Método B, eliminando cualquier elemento que pueda distraer o parecer redundante. |
+| **Alta (Urgente)** | El Diseño B (SushiMakiTeriyaki) ganó con una nota de **91.25** frente a los **88.33** del Diseño A. Además, un usuario le dio un 100 perfecto. | **Quedarnos con el Diseño B** como la versión definitiva de la web, ya que a la gente le costó mucho menos esfuerzo entenderlo y usarlo. |
+| **Media** | A los usuarios más mayores (de 63 y 64 años) o que no se llevan tan bien con la tecnología les costó un poquito más arrancar o sintieron algo más de complicación. | **Hacer la web más accesible:** agrandar el tamaño de la letra, mejorar los colores para que se lean bien y poner instrucciones más claras para que los adultos mayores no se pierdan. |
+| **Baja (Secundario)** | Aunque la gente se sintió segura usando la web, en el Diseño A hubo pequeñas dudas sobre si todos los botones y apartados funcionaban igual. | **Limpiar y unificar el diseño:** hacer que todos los botones, menús y apartados visuales se vean idénticos en toda la web, copiando el estilo del Diseño B que fue el que mejor funcionó. |
