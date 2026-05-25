@@ -38,7 +38,7 @@ Logotipo:
 <img width="338" height="302" alt="imagen" src="https://github.com/user-attachments/assets/6ad2bcfc-6f83-4514-bb7e-3c58f84902cc" />
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  Marcos García Álvarez    :octocat:     
+ * :bust_in_silhouette:  Marcos García Álvarez    :octocat: https://github.com/marcosmariness
  * :bust_in_silhouette:  Carlos García Gonzalez   :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
