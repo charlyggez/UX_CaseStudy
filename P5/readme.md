@@ -76,8 +76,3 @@ Haciendo las cuentas de la encuesta (donde las preguntas negativas restan y las 
 2. **Los dos son muy buenos:** Ninguno de los dos diseños baja de los 82 puntos, lo que significa que ambos están muy bien hechos y no confunden a la gente.
 
 ---
-
-## 5. Conclusión: ¿Cuál elegimos?
-Los dos diseños son buenísimos, pero **nos quedamos con el Método B (SushiMakiTeriyaki)**. 
-
-La gente lo puntuó un poco más alto (91.25 frente a 88.33) y casi nadie sintió que la web fuera confusa o que necesitara ayuda para usarla. Es la opción ganadora.
