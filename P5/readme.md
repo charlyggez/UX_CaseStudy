@@ -15,6 +15,14 @@ Video de uso de la app:
 Puntos fuertes y de mejora relativos a los criterios de accesibilidad de tu diseño
 - Conclusiones
 
+## Escala SUS
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+| P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Método A/B Testing |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| 3 | 1 | 5 | 1 | 4 | 2 | 4 | 2 | 4 | 1 | B. SushiMakiTeriyaki |
+| 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | B. SushiMakiTeriyaki |
+| 3 | 2 | 4 | 1 | 5 | 1 | 5 | 1 | 4 | 1 | B. SushiMakiTeriyaki |
+| 5 | 1 | 5 | 1 | 4 | 1 | 5 | 2 | 5 | 1 | B. SushiMakiTeriyaki |
+| 4 | 1 | 5 | 1 | 5 | 3 | 5 | 1 | 5 | 1 | A. Qarmita |
+| 3 | 1 | 5 | 1 | 3 | 2 | 5 | 1 | 5 | 1 | A. Qarmita |
+| 5 | 1 | 4 | 1 | 4 | 3 | 5 | 2 | 4 | 1 | A. Qarmita |
