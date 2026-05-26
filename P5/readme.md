@@ -10,7 +10,6 @@ Video de uso de la app:
 ## [VIDEO](diseño_final.webm)
 
 <br> 
-**¿Qué diseño funciona mejor en nuestra web?**
 
 ## 1. De qué trata este reporte
 Hicimos una prueba con usuarios reales para comparar dos diseños de nuestra web: el **Método A (Qarmita)** y el **Método B (SushiMakiTeriyaki)**. Queríamos saber cuál de los dos es más fácil y cómodo de usar. 
