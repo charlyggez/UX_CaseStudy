@@ -118,13 +118,13 @@ Para comprobar la efectividad del diseño del sitio de Sushi Maki, analizamos lo
 2. **Navegación intuitiva en la carta:** El uso de imágenes grandes para los platos combinadas con filtros rápidos en la parte superior permite que los comensales exploren el menú sin esfuerzo y localicen rápido lo que quieren pedir.
 
 ---
+## 6. Conclusiones y Recomendaciones Finales
 
-## 6. Conclusiones y Recomendaciones
-
-Aquí dejamos los cambios y mejoras que debemos hacer, ordenados por importancia (desde lo más urgente hasta lo que puede esperar), basándonos en las notas que nos dieron los usuarios en las encuestas:
+Basándonos tanto en las notas de las encuestas (SUS) como en el comportamiento real visto en los mapas de calor, hemos ordenado las mejoras y decisiones por nivel de importancia:
 
 | Importancia | ¿Qué descubrimos? | ¿Qué recomendamos hacer? |
 | :--- | :--- | :--- |
-| **Alta (Urgente)** | El Diseño B (SushiMakiTeriyaki) ganó con una nota de **91.25** frente a los **88.33** del Diseño A. Además, un usuario le dio un 100 perfecto. | **Quedarnos con el Diseño B** como la versión definitiva de la web, ya que a la gente le costó mucho menos esfuerzo entenderlo y usarlo. |
-| **Media** | A los usuarios más mayores (de 63 y 64 años) o que no se llevan tan bien con la tecnología les costó un poquito más arrancar o sintieron algo más de complicación. | **Hacer la web más accesible:** agrandar el tamaño de la letra, mejorar los colores para que se lean bien y poner instrucciones más claras para que los adultos mayores no se pierdan. |
-| **Baja (Secundario)** | Aunque la gente se sintió segura usando la web, en el Diseño A hubo pequeñas dudas sobre si todos los botones y apartados funcionaban igual. | **Limpiar y unificar el diseño:** hacer que todos los botones, menús y apartados visuales se vean idénticos en toda la web, copiando el estilo del Diseño B que fue el que mejor funcionó. |
+| 🚨 **Alta (Urgente)** | **Problema de conversión en La Qarmita:** En la pantalla del evento, las fotos de los libros y el café llaman tanto la atención que los usuarios no se fijan en el botón de **"Reservar plaza"**. | **Rediseñar el botón de reserva:** Hay que cambiarlo de sitio, hacerlo más grande o darle un color con más contraste para que no pase desapercibido entre las imágenes. |
+| ⭐ **Alta (Decisión)** | **El Diseño B (SushiMaki) es el ganador:** Aunque ambos diseños tienen notas espectaculares (88.33 frente a 91.25), el Diseño B consiguió un 100 perfecto y sus mapas de calor demuestran que el usuario va directo al grano sin distraerse. | **Adoptar el sistema del Diseño B:** Utilizar la estructura de Sushi Maki (botones grandes y centrados para las acciones principales) como estándar para todo el proyecto. |
+| ⚠️ **Media** | **Barrera tecnológica en adultos mayores:** A los participantes de más de 60 años o con menos experiencia digital les llevó un poco más de tiempo interactuar con algunas secciones. | **Mejorar la accesibilidad:** Aumentar el tamaño de las fuentes, asegurar un buen contraste en los textos y añadir pequeñas ayudas visuales (como iconos claros junto al texto). |
+| 📉 **Baja** | **Contenido vs. Acción:** Los bloques de texto largo (como "Historia del Lugar") apenas se leen. Los usuarios buscan interactuar rápido con elementos visuales. | **Simplificar textos:** Reducir los textos informativos a frases cortas y directas, priorizando siempre los accesos rápidos y las imágenes que guíen al usuario. |
