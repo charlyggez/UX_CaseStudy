@@ -74,7 +74,7 @@ Haciendo las cuentas de la encuesta (donde las preguntas negativas restan y las 
 2. **Los dos son muy buenos:** Ninguno de los dos diseños baja de los 82 puntos, lo que significa que ambos están muy bien hechos y no confunden a la gente.
 
 
-## 🔍 5. Análisis de Mapas de Calor (Heatmaps)
+## 5. Análisis de Mapas de Calor (Heatmaps)
 
 <img width="1480" height="924" alt="diu" src="https://github.com/user-attachments/assets/7ef6b8ed-6970-4e08-920c-d05e15af3cde" />
 <br>
@@ -82,24 +82,25 @@ Haciendo las cuentas de la encuesta (donde las preguntas negativas restan y las 
 <br>
 Para entender cómo usan la aplicación los usuarios y en qué partes se fijan más, hemos analizado los mapas de calor de las pantallas principales. Esto es lo que hemos descubierto:
 
-### 🏠 1. Pantalla de Inicio (La Qarmita)
+### 1. Pantalla de Inicio (La Qarmita)
 * **¿Dónde miran más?:** La atención se va directa al menú de arriba a la derecha, al botón marrón de la dirección ("Calle Tejiero 21") y al botón de *"Explora locales asociados"*. En la barra de abajo, se nota que entran mucho a *Inicio* y a *Perfil*.
 * **Conclusión:** La gente pasa de largo de los textos largos (como el de "Historia del Lugar") y va directa a lo visual: botones grandes, fotos bonitas (como la taza de café de abajo) y elementos donde se pueda hacer clic rápido.
 
-### 📅 2. Calendario de Eventos
+### 2. Calendario de Eventos
 * **¿Dónde miran más?:** Aunque la gente va tocando diferentes días del mes (sobre todo a partir de la segunda semana), la zona que se pone más "roja" y caliente es la de **Eventos destacados** abajo del todo.
 * **Conclusión:** Las tarjetas de *"Club de lectura"* y *"Presentación de libro"* funcionan genial. El texto de *"Ver detalles"* llama mucho la atención y consigue que los usuarios pinchen ahí para ver más información.
 
-### 📖 3. Detalle del Evento (Club de Lectura)
+### 3. Detalle del Evento (Club de Lectura)
 * **¿Dónde miran más?:** Los ojos se van directos a las imágenes de la cafetería y de los libros que hay en la galería de abajo, además de a los datos de la fecha y la hora.
 * **Conclusión (Aviso de mejora):** El botón de **"Reservar plaza"** recibe menos atención de la que debería porque las fotos de abajo llaman tanto la atención que "se lo comen". *Recomendación:* Habría que hacer el botón de reservar más llamativo o cambiarlo de sitio para que la gente lo vea antes y reserve más fácil.
 
-
 ---
 
-### 💡 Resumen de lo que hemos aprendido
+### Resumen de lo que hemos aprendido
 1. **Las fotos funcionan muy bien:** Las imágenes reales de café, libros y comida atraen mucho al usuario, pero hay que tener cuidado de que no tapen a los botones importantes (como el de reservar).
 2. **Navegación fácil:** Los usuarios no se pierden. Usan los menús y los botones de volver atrás exactamente como esperábamos, lo que significa que la app es intuitiva y fácil de usar.
+
+<br><br>
 
 <img width="1853" height="947" alt="diu3" src="https://github.com/user-attachments/assets/3558d573-81ef-4efc-850c-22e7325f7648" />
 
@@ -108,6 +109,24 @@ Para entender cómo usan la aplicación los usuarios y en qué partes se fijan m
 <img width="1853" height="952" alt="diu5" src="https://github.com/user-attachments/assets/f944d7fc-eace-4f5a-836a-f4122f3dc5d8" />
 
 <img width="1853" height="952" alt="diu6" src="https://github.com/user-attachments/assets/70ad2ad5-e6e7-4726-89ae-061aa54ceb39" />
+
+## 🔍 6. Análisis de Mapas de Calor (Sushi Maki)
+
+Para comprobar la efectividad del diseño del sitio de Sushi Maki, analizamos los mapas de calor comparando el comportamiento de los usuarios en diferentes versiones de la Página Principal y del Menú.
+
+### 1. Página Principal (Test de Variaciones)
+* **¿Dónde miran más?:** En ambas pruebas, la atención se concentra de forma masiva en el logotipo superior y en los botones de acción centrales, destacando con mucha fuerza **"Reservar mesa"** y **"Pedir a domicilio"**. En una de las versiones, la imagen del sushi gana algo más de atención dispersa, y en el menú inferior el botón de **"Ayuda"** se mantiene como un punto caliente constante.
+* **Conclusión:** Los botones grandes, claros y centrados funcionan a la perfección. El usuario no se distrae con decoraciones y va directo a interactuar con los servicios clave (pedir o reservar). 
+
+### 2. Pantalla de Menú / Carta (Test de Variaciones)
+* **¿Dónde miran más?:** La atención se centra intensamente en el primer plato (**Salmon Nigiri**) y en los filtros por categorías, especialmente en la etiqueta de **"Sushi"** y los botones colindantes. También hay fijaciones importantes en el banner superior de aviso informativo y en el lateral izquierdo donde se sitúa el buscador y el botón de *"Mis Favoritos"*.
+* **Conclusión:** El comportamiento valida que los usuarios escanean el menú de izquierda a derecha (siguiendo el orden natural de lectura). Las imágenes reales de los platos capturan por completo la mirada antes que los precios. Las pestañas de categorías superiores son muy utilizadas, lo que demuestra que la segmentación de la comida ayuda a que el usuario navegue de forma cómoda.
+
+---
+
+### Resumen Final de Usabilidad
+1. **Diseño directo a la acción:** La interfaz de Sushi Maki guía al usuario de forma muy efectiva hacia la conversión gracias a una jerarquía limpia y botones muy visibles.
+2. **Navegación intuitiva en la carta:** El uso de imágenes grandes para los platos combinadas con filtros rápidos en la parte superior permite que los comensales exploren el menú sin esfuerzo y localicen rápido lo que quieren pedir.
 
 ---
 
