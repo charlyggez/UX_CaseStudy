@@ -331,20 +331,8 @@ Se han realizado los mockup de la pagina principal, la parte relacionada con los
 En el paso al diseño final de la app con Figma Make se han añadido los diseños anteriores y se ha implementado tambien un sistema de traduccion y una cuenta, el menu funciona como se mostro en los mockup, la app es completamente funcional, permite cambiar el idioma, informase sobre los eventos, ver la carta, reservar un evento, permite ver la localización mediante un mapa interactivo y un enlace que lleva a la ubicación con Google Maps y está vinculada con las redes sociales oficiales de la cafetería.
 
 <br>
+## Practica 5: Exportación + Documentación - entregables 
 
-## Paso 5. Exportación y Documentación 
-
-
-Para ver la aplicación funcionando, haz clic en el siguiente enlace:
-
-## [👉 CLIC AQUÍ PARA PROBAR LA APP](https://www.figma.com/make/An1VIS9vvsTAOXsaw0uB5b/Crear-app-interactiva?fullscreen=1&t=oCszbpvr4fSDDC3w-1&code-node-id=0-9)
-
-
-Video de uso de la app:
-
-## [VIDEO](diseño_final.webm)
-
-<br> 
 
 ## 1. De qué trata este reporte
 Hicimos una prueba con usuarios reales para comparar dos diseños de nuestra web: el **Método A (Qarmita)** y el **Método B (SushiMakiTeriyaki)**. Queríamos saber cuál de los dos es más fácil y cómodo de usar. 
@@ -408,17 +396,68 @@ Haciendo las cuentas de la encuesta (donde las preguntas negativas restan y las 
 1. **Un 100 perfecto:** El segundo usuario que probó el **Método B** le dio la nota máxima. Significa que le pareció un paseo y no tuvo ningún problema para entender la web.
 2. **Los dos son muy buenos:** Ninguno de los dos diseños baja de los 82 puntos, lo que significa que ambos están muy bien hechos y no confunden a la gente.
 
+
+## 5. Análisis de Mapas de Calor (Heatmaps)
+
+<img width="1480" height="924" alt="diu" src="https://github.com/user-attachments/assets/7ef6b8ed-6970-4e08-920c-d05e15af3cde" />
+<br>
+<img width="1480" height="924" alt="diu2" src="https://github.com/user-attachments/assets/041e5b66-d99e-4240-9f7c-f690f03fd0d7" />
+<br>
+Para entender cómo usan la aplicación los usuarios y en qué partes se fijan más, hemos analizado los mapas de calor de las pantallas principales. Esto es lo que hemos descubierto:
+
+### 1. Pantalla de Inicio (La Qarmita)
+* **¿Dónde miran más?:** La atención se va directa al menú de arriba a la derecha, al botón marrón de la dirección ("Calle Tejiero 21") y al botón de *"Explora locales asociados"*. En la barra de abajo, se nota que entran mucho a *Inicio* y a *Perfil*.
+* **Conclusión:** La gente pasa de largo de los textos largos (como el de "Historia del Lugar") y va directa a lo visual: botones grandes, fotos bonitas (como la taza de café de abajo) y elementos donde se pueda hacer clic rápido.
+
+### 2. Calendario de Eventos
+* **¿Dónde miran más?:** Aunque la gente va tocando diferentes días del mes (sobre todo a partir de la segunda semana), la zona que se pone más "roja" y caliente es la de **Eventos destacados** abajo del todo.
+* **Conclusión:** Las tarjetas de *"Club de lectura"* y *"Presentación de libro"* funcionan genial. El texto de *"Ver detalles"* llama mucho la atención y consigue que los usuarios pinchen ahí para ver más información.
+
+### 3. Detalle del Evento (Club de Lectura)
+* **¿Dónde miran más?:** Los ojos se van directos a las imágenes de la cafetería y de los libros que hay en la galería de abajo, además de a los datos de la fecha y la hora.
+* **Conclusión (Aviso de mejora):** El botón de **"Reservar plaza"** recibe menos atención de la que debería porque las fotos de abajo llaman tanto la atención que "se lo comen". *Recomendación:* Habría que hacer el botón de reservar más llamativo o cambiarlo de sitio para que la gente lo vea antes y reserve más fácil.
+
 ---
 
-## 6. Conclusiones y Recomendaciones
+### Resumen de lo que hemos aprendido
+1. **Las fotos funcionan muy bien:** Las imágenes reales de café, libros y comida atraen mucho al usuario, pero hay que tener cuidado de que no tapen a los botones importantes (como el de reservar).
+2. **Navegación fácil:** Los usuarios no se pierden. Usan los menús y los botones de volver atrás exactamente como esperábamos, lo que significa que la app es intuitiva y fácil de usar.
 
-Aquí dejamos los cambios y mejoras que debemos hacer, ordenados por importancia (desde lo más urgente hasta lo que puede esperar), basándonos en las notas que nos dieron los usuarios en las encuestas:
+<br><br>
+
+<img width="1853" height="947" alt="diu3" src="https://github.com/user-attachments/assets/3558d573-81ef-4efc-850c-22e7325f7648" />
+
+<img width="1852" height="922" alt="diu4" src="https://github.com/user-attachments/assets/5e5578a6-8999-4b81-9543-6125ac5659d8" />
+
+<img width="1853" height="952" alt="diu5" src="https://github.com/user-attachments/assets/f944d7fc-eace-4f5a-836a-f4122f3dc5d8" />
+
+<img width="1853" height="952" alt="diu6" src="https://github.com/user-attachments/assets/70ad2ad5-e6e7-4726-89ae-061aa54ceb39" />
+
+
+Para comprobar la efectividad del diseño del sitio de Sushi Maki, analizamos los mapas de calor comparando el comportamiento de los usuarios en diferentes versiones de la Página Principal y del Menú.
+
+### 1. Página Principal (Test de Variaciones)
+* **¿Dónde miran más?:** En ambas pruebas, la atención se concentra de forma masiva en el logotipo superior y en los botones de acción centrales, destacando con mucha fuerza **"Reservar mesa"** y **"Pedir a domicilio"**. En una de las versiones, la imagen del sushi gana algo más de atención dispersa, y en el menú inferior el botón de **"Ayuda"** se mantiene como un punto caliente constante.
+* **Conclusión:** Los botones grandes, claros y centrados funcionan a la perfección. El usuario no se distrae con decoraciones y va directo a interactuar con los servicios clave (pedir o reservar). 
+
+### 2. Pantalla de Menú / Carta (Test de Variaciones)
+* **¿Dónde miran más?:** La atención se centra intensamente en el primer plato (**Salmon Nigiri**) y en los filtros por categorías, especialmente en la etiqueta de **"Sushi"** y los botones colindantes. También hay fijaciones importantes en el banner superior de aviso informativo y en el lateral izquierdo donde se sitúa el buscador y el botón de *"Mis Favoritos"*.
+* **Conclusión:** El comportamiento valida que los usuarios escanean el menú de izquierda a derecha (siguiendo el orden natural de lectura). Las imágenes reales de los platos capturan por completo la mirada antes que los precios. Las pestañas de categorías superiores son muy utilizadas, lo que demuestra que la segmentación de la comida ayuda a que el usuario navegue de forma cómoda.
+
+---
+
+### Resumen Final de Usabilidad
+1. **Diseño directo a la acción:** La interfaz de Sushi Maki guía al usuario de forma muy efectiva hacia la conversión gracias a una jerarquía limpia y botones muy visibles.
+2. **Navegación intuitiva en la carta:** El uso de imágenes grandes para los platos combinadas con filtros rápidos en la parte superior permite que los comensales exploren el menú sin esfuerzo y localicen rápido lo que quieren pedir.
+
+---
+## 6. Conclusiones y Recomendaciones Finales
+
+Basándonos tanto en las notas de las encuestas (SUS) como en el comportamiento real visto en los mapas de calor, hemos ordenado las mejoras y decisiones por nivel de importancia:
 
 | Importancia | ¿Qué descubrimos? | ¿Qué recomendamos hacer? |
 | :--- | :--- | :--- |
-| **Alta (Urgente)** | El Diseño B (SushiMakiTeriyaki) ganó con una nota de **91.25** frente a los **88.33** del Diseño A. Además, un usuario le dio un 100 perfecto. | **Quedarnos con el Diseño B** como la versión definitiva de la web, ya que a la gente le costó mucho menos esfuerzo entenderlo y usarlo. |
-| **Media** | A los usuarios más mayores (de 63 y 64 años) o que no se llevan tan bien con la tecnología les costó un poquito más arrancar o sintieron algo más de complicación. | **Hacer la web más accesible:** agrandar el tamaño de la letra, mejorar los colores para que se lean bien y poner instrucciones más claras para que los adultos mayores no se pierdan. |
-| **Baja (Secundario)** | Aunque la gente se sintió segura usando la web, en el Diseño A hubo pequeñas dudas sobre si todos los botones y apartados funcionaban igual. | **Limpiar y unificar el diseño:** hacer que todos los botones, menús y apartados visuales se vean idénticos en toda la web, copiando el estilo del Diseño B que fue el que mejor funcionó. |
-
-
-
+| 🚨 **Alta (Urgente)** | **Problema de conversión en La Qarmita:** En la pantalla del evento, las fotos de los libros y el café llaman tanto la atención que los usuarios no se fijan en el botón de **"Reservar plaza"**. | **Rediseñar el botón de reserva:** Hay que cambiarlo de sitio, hacerlo más grande o darle un color con más contraste para que no pase desapercibido entre las imágenes. |
+| ⭐ **Alta (Decisión)** | **El Diseño B (SushiMaki) es el ganador:** Aunque ambos diseños tienen notas espectaculares (88.33 frente a 91.25), el Diseño B consiguió un 100 perfecto y sus mapas de calor demuestran que el usuario va directo al grano sin distraerse. | **Adoptar el sistema del Diseño B:** Utilizar la estructura de Sushi Maki (botones grandes y centrados para las acciones principales) como estándar para todo el proyecto. |
+| ⚠️ **Media** | **Barrera tecnológica en adultos mayores:** A los participantes de más de 60 años o con menos experiencia digital les llevó un poco más de tiempo interactuar con algunas secciones. | **Mejorar la accesibilidad:** Aumentar el tamaño de las fuentes, asegurar un buen contraste en los textos y añadir pequeñas ayudas visuales (como iconos claros junto al texto). |
+| 📉 **Baja** | **Contenido vs. Acción:** Los bloques de texto largo (como "Historia del Lugar") apenas se leen. Los usuarios buscan interactuar rápido con elementos visuales. | **Simplificar textos:** Reducir los textos informativos a frases cortas y directas, priorizando siempre los accesos rápidos y las imágenes que guíen al usuario. |
