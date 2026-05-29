@@ -13,7 +13,7 @@ Actualizado: 14/01/2026
 
 
 
-## Paso 0 My UX-Case Study
+# Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
 
@@ -43,7 +43,7 @@ Miembros y nombre del equipo:
 
 <br>
 
-## DIU - Practica1, entregables
+# DIU - Practica1, entregables
 
 
 <br>
@@ -234,7 +234,7 @@ Journey Map de Maria:
 
 <br>
 
-## Paso 2. UX Design  
+# Paso 2. UX Design  
 
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
@@ -293,7 +293,7 @@ Carta en móvil:
 
 <br>
 
-## Paso 3. Mi UX-Case Study (diseño)
+# Paso 3. Mi UX-Case Study (diseño)
 
 ## Moodboard
 ![MOODBOARD](P3/moodboard.png)
@@ -310,7 +310,7 @@ Queremos trasmitir esa tranquilidad de sentarse a leer mientras tomas un café p
 
 <br>
 
-## Paso 4. Pruebas de Evaluación 
+# Paso 4. Pruebas de Evaluación 
 
 Para ver la aplicación funcionando, haz clic en el siguiente enlace:
 
