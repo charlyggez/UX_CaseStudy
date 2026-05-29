@@ -325,7 +325,7 @@ Se han realizado los mockup de la pagina principal, la parte relacionada con los
 En el paso al diseño final de la app con Figma Make se han añadido los diseños anteriores y se ha implementado tambien un sistema de traduccion y una cuenta, el menu funciona como se mostro en los mockup, la app es completamente funcional, permite cambiar el idioma, informase sobre los eventos, ver la carta, reservar un evento, permite ver la localización mediante un mapa interactivo y un enlace que lleva a la ubicación con Google Maps y está vinculada con las redes sociales oficiales de la cafetería.
 
 <br>
-## Practica 5: Exportación + Documentación - entregables 
+# Paso 5: Exportación + Documentación - entregables 
 
 
 ## 1. De qué trata este reporte
