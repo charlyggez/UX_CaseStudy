@@ -1,15 +1,5 @@
 ## Practica 5: Exportación + Documentación - entregables 
 
-Para ver la aplicación funcionando, haz clic en el siguiente enlace:
-
-## [👉 CLIC AQUÍ PARA PROBAR LA APP](https://www.figma.com/make/An1VIS9vvsTAOXsaw0uB5b/Crear-app-interactiva?fullscreen=1&t=oCszbpvr4fSDDC3w-1&code-node-id=0-9)
-
-
-Video de uso de la app:
-
-## [VIDEO](diseño_final.webm)
-
-<br> 
 
 ## 1. De qué trata este reporte
 Hicimos una prueba con usuarios reales para comparar dos diseños de nuestra web: el **Método A (Qarmita)** y el **Método B (SushiMakiTeriyaki)**. Queríamos saber cuál de los dos es más fácil y cómodo de usar. 
