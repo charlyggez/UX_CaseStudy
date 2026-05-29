@@ -73,6 +73,21 @@ Haciendo las cuentas de la encuesta (donde las preguntas negativas restan y las 
 1. **Un 100 perfecto:** El segundo usuario que probó el **Método B** le dio la nota máxima. Significa que le pareció un paseo y no tuvo ningún problema para entender la web.
 2. **Los dos son muy buenos:** Ninguno de los dos diseños baja de los 82 puntos, lo que significa que ambos están muy bien hechos y no confunden a la gente.
 
+
+## 5. Heatmaps
+
+<img width="1480" height="924" alt="diu" src="https://github.com/user-attachments/assets/7ef6b8ed-6970-4e08-920c-d05e15af3cde" />
+
+<img width="1480" height="924" alt="diu2" src="https://github.com/user-attachments/assets/041e5b66-d99e-4240-9f7c-f690f03fd0d7" />
+
+<img width="1853" height="947" alt="diu3" src="https://github.com/user-attachments/assets/3558d573-81ef-4efc-850c-22e7325f7648" />
+
+<img width="1852" height="922" alt="diu4" src="https://github.com/user-attachments/assets/5e5578a6-8999-4b81-9543-6125ac5659d8" />
+
+<img width="1853" height="952" alt="diu5" src="https://github.com/user-attachments/assets/f944d7fc-eace-4f5a-836a-f4122f3dc5d8" />
+
+<img width="1853" height="952" alt="diu6" src="https://github.com/user-attachments/assets/70ad2ad5-e6e7-4726-89ae-061aa54ceb39" />
+
 ---
 
 ## 6. Conclusiones y Recomendaciones
