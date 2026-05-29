@@ -100,7 +100,6 @@ Para entender cómo usan la aplicación los usuarios y en qué partes se fijan m
 
 <img width="1853" height="952" alt="diu6" src="https://github.com/user-attachments/assets/70ad2ad5-e6e7-4726-89ae-061aa54ceb39" />
 
-## 🔍 6. Análisis de Mapas de Calor (Sushi Maki)
 
 Para comprobar la efectividad del diseño del sitio de Sushi Maki, analizamos los mapas de calor comparando el comportamiento de los usuarios en diferentes versiones de la Página Principal y del Menú.
 
