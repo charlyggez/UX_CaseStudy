@@ -62,9 +62,31 @@ Como cierre metodológico, este proceso culmina en el presente **Informe de Usab
 
 ## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 
-[Aquí se muestran datos del análisis multivariable de SUS] 
-
 Se utilizó el cuestionario SUS de 10 ítems para medir la satisfacción y facilidad de uso. Las puntuaciones mínimas en ambas plataformas no bajaron de los 82.5 puntos, indicando un nivel de frustración casi nulo.
+Cada usuario respondió a estas 10 frases puntuando del 1 (Totalmente en desacuerdo) al 5 (Totalmente de acuerdo):
+
+* **P1:** Creo que me gustará visitar con frecuencia este website.
+* **P2:** Encontré el website innecesariamente complejo.
+* **P3:** Pensé que era fácil utilizar este website.
+* **P4:** Creo que necesitaría del apoyo de un experto para recorrer el website.
+* **P5:** Encontré las funciones del website bastante bien integradas.
+* **P6:** Pensé que había demasiada inconsistencia en el website.
+* **P7:** Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website.
+* **P8:** Encontré el website muy grande al recorrerlo.
+* **P9:** Me sentí muy confiado en el manejo del website.
+* **P10:** Necesito aprender muchas cosas antes de manejarme en el website.
+
+| P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Diseño evaluado | Nota Final |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
+| 3 | 1 | 5 | 1 | 4 | 2 | 4 | 2 | 4 | 1 | B. SushiMakiTeriyaki | **82.5** |
+| 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | B. SushiMakiTeriyaki | **100.0** |
+| 3 | 2 | 4 | 1 | 5 | 1 | 5 | 1 | 4 | 1 | B. SushiMakiTeriyaki | **87.5** |
+| 5 | 1 | 5 | 1 | 4 | 1 | 5 | 2 | 5 | 1 | B. SushiMakiTeriyaki | **95.0** |
+| 4 | 1 | 5 | 1 | 5 | 3 | 5 | 1 | 5 | 1 | A. Qarmita | **92.5** |
+| 3 | 1 | 5 | 1 | 3 | 2 | 5 | 1 | 5 | 1 | A. Qarmita | **87.5** |
+| 5 | 1 | 4 | 1 | 4 | 3 | 5 | 2 | 4 | 1 | A. Qarmita | **85.0** |
+| 4 | 1 | 4 | 1 | 4 | 2 | 3 | 2 | 5 | 1 | A. Qarmita | **85.0** |
+
 
 *   **Método A (La Qarmita):** Puntuación media de **88.33 / 100** (Excelente).
 *   **Método B (SushiMakiTeriyaki):** Puntuación media de **91.25 / 100** (Sobresaliente).
@@ -75,7 +97,6 @@ Se utilizó el cuestionario SUS de 10 ítems para medir la satisfacción y facil
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
 *   **Heatmaps (Mapas de calor):** 
-    *(Nota: Incluye aquí las capturas de GazeMapping).*
     En **La Qarmita**, los usuarios miraron rápidamente los **POI** (Puntos de Interés) funcionales. En la *Pantalla de Inicio*, la atención fue directa al menú superior derecho, al botón marrón de dirección ("Calle Tejiero 21"), al botón "Explora locales asociados" y a la barra inferior (Inicio y Perfil). En el *Calendario*, la zona más caliente fueron las tarjetas de "Eventos destacados" (como el Club de lectura), atrayendo muchos clics el texto "Ver detalles". En el *Detalle del Evento*, la mirada se centró directamente en los datos de fecha/hora y en las imágenes reales de la galería inferior (cafetería y libros).
     
 *   **Zonas de Silencio:** 
