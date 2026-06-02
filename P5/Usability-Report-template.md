@@ -44,7 +44,7 @@ El objetivo principal de esta fase es evaluar los prototipos con usuarios reales
 **Estrategia de Reclutamiento (Co-evaluación)**
 La selección de usuarios se basó en un modelo de **co-evaluación cruzada**, integrando a otros grupos de clase para realizar pruebas entre proyectos. Gracias a esto, reclutamos a **8 participantes** con una gran diversidad demográfica para asegurar que la web funcione bien para todo el mundo:
 
-*   **Edades:** Rango desde los 20 hasta los 64 años.
+*   **Edades:** Rango desde los 20 hasta los 64 años, siendo mayoría los jóvenes en la década de los 20.
 *   **Competencia tecnológica:** Desde usuarios avanzados hasta perfiles con nivel bajo/medio sin experiencia previa.
  
 | ID | Edad | Género | Nivel Tecnológico | Diseño Evaluado |
