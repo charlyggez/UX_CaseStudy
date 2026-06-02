@@ -4,25 +4,18 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="height:150px" />
 
-### Evaluación de usabilidad del proyecto  [NOMBRE PROYECTO] La Qarmita
+### Evaluación de usabilidad del proyecto **La Qarmita**
 
-[Fecha]
+<img width="338" height="302" alt="image" src="https://github.com/user-attachments/assets/419b0959-5332-40eb-b711-f2210c50d63c" />
 
-[img Proyecto]
-
-[Enlace a GITHUB del proyecto]
+[[Enlace a GITHUB del proyecto]](https://github.com/charlyggez/UX_CaseStudy.git)
 
 ### Realizado por:  
-
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
- 
+ * :bust_in_silhouette:  Marcos García Álvarez    :octocat: https://github.com/marcosmariness
+ * :bust_in_silhouette:  Carlos García Gonzalez   :octocat: https://github.com/charlyggez
 
 
 ## 1 RESUMEN EJECUTIVO  (Executive Summary)
-
-[ Es la sección más importante para los interesados (stakeholders). Debe ocupar una sola página] .
 
 *   **Objetivo:** Comparar la usabilidad del diseño web de **La Qarmita (Método A)** frente al de **SushiMakiTeriyaki (Método B)** para determinar cuál ofrece una experiencia más cómoda e intuitiva, identificando áreas de mejora.
 *   **Metodología:** Estrategia de UX Research basada en cuatro pilares: Test A/B, cuestionario estandarizado SUS, biometría visual (Eye Tracking / Heatmaps) y evaluación de accesibilidad.
@@ -114,7 +107,6 @@ Cada usuario respondió a estas 10 frases puntuando del 1 (Totalmente en desacue
     *   **Carga cognitiva:** Falta de ayudas visuales (como iconos claros junto al texto) que faciliten la comprensión rápida para perfiles menos tecnológicos.
 
 ## 6. Conclusiones y Recomendaciones (Actionable Insights)
-
 
 Basándonos tanto en las notas de las encuestas (SUS) como en el comportamiento real visto en los mapas de calor, hemos ordenado las mejoras y decisiones por nivel de importancia:
 
