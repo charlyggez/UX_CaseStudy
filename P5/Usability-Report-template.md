@@ -85,7 +85,7 @@ Se utilizó el cuestionario SUS de 10 ítems para medir la satisfacción y facil
 
 ## 5. Auditoría de Accesibilidad
 
-*   **Puntuación Automática:** `[Insertar puntuación obtenida en Lighthouse/WAVE, ej: 85/100]`.
+*   **Puntuación Automática:** En el reporte WAve, se encuentran alertas refiriéndose a una falta de estructura de encabezado y no se encontraron regiones de página distinguibles. También se puntuó positivamente el idioma de la página.
 
 *   **Principales barreras:** 
     *   **Brecha generacional / Legibilidad:** Se observó que a los participantes de más de 60 años o con menor experiencia digital (IDs 2, 3 y 8) les costó un poco más interactuar con ciertas secciones. 
@@ -97,7 +97,7 @@ Se utilizó el cuestionario SUS de 10 ítems para medir la satisfacción y facil
 
 Basándonos tanto en las notas de las encuestas (SUS) como en el comportamiento real visto en los mapas de calor, hemos ordenado las mejoras y decisiones por nivel de importancia:
 
-| Importancia | ¿Qué descubrimos? | ¿Qué recomendamos hacer? |
+| Prioridad | Hallazgo | Recomendación de Mejora |
 | :--- | :--- | :--- |
 | **Alta (Urgente)** | **Problema de conversión en La Qarmita:** En la pantalla del evento, las fotos de los libros y el café llaman tanto la atención que los usuarios no se fijan en el botón de **"Reservar plaza"**. | **Rediseñar el botón de reserva:** Hay que cambiarlo de sitio, hacerlo más grande o darle un color con más contraste para que no pase desapercibido entre las imágenes. |
 | **Alta (Decisión)** | **El Diseño B (SushiMaki) es el ganador:** Aunque ambos diseños tienen notas espectaculares (88.33 frente a 91.25), el Diseño B consiguió un 100 perfecto y sus mapas de calor demuestran que el usuario va directo al grano sin distraerse. | **Adoptar el sistema del Diseño B:** Utilizar la estructura de Sushi Maki (botones grandes y centrados para las acciones principales) como estándar para todo el proyecto. |
