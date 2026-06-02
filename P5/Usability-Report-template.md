@@ -47,7 +47,7 @@ La selección de usuarios se basó en un modelo de **co-evaluación cruzada**, i
 *   **Edades:** Rango desde los 20 hasta los 64 años.
 *   **Competencia tecnológica:** Desde usuarios avanzados hasta perfiles con nivel bajo/medio sin experiencia previa.
  
-*   | ID | Edad | Género | Nivel Tecnológico | Diseño Evaluado |
+| ID | Edad | Género | Nivel Tecnológico | Diseño Evaluado |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | 26 | Hombre | Alto | B. SushiMakiTeriyaki |
 | 2 | 64 | Mujer | Medio/Alto | A. Qarmita |
