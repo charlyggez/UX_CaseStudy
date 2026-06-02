@@ -94,13 +94,15 @@ Se utilizó el cuestionario SUS de 10 ítems para medir la satisfacción y facil
 
 ## 6. Conclusiones y Recomendaciones (Actionable Insights)
 
-No te limites a decir qué está mal; di cómo arreglarlo. Clasifica las recomendaciones por prioridad:
 
-| **Prioridad**      | **Hallazgo**                                                 | **Recomendación de Mejora**                                  |
-| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Alta (Crítica)** | Ej. El SUS indica alta complejidad y el Eye Tracking muestra confusión en el menú. | Simplificar la arquitectura de información y aumentar el tamaño de las fuentes. |
-| **Media**          | Ej. Los usuarios no ven el botón de registro rápidamente.        | Cambiar el color del CTA a uno de mayor contraste según WCAG. |
-| **Baja**           | Ej. El logo no redirige a la home.                               | Añadir el enlace estándar al logotipo en la cabecera.        |
+Basándonos tanto en las notas de las encuestas (SUS) como en el comportamiento real visto en los mapas de calor, hemos ordenado las mejoras y decisiones por nivel de importancia:
+
+| Importancia | ¿Qué descubrimos? | ¿Qué recomendamos hacer? |
+| :--- | :--- | :--- |
+| **Alta (Urgente)** | **Problema de conversión en La Qarmita:** En la pantalla del evento, las fotos de los libros y el café llaman tanto la atención que los usuarios no se fijan en el botón de **"Reservar plaza"**. | **Rediseñar el botón de reserva:** Hay que cambiarlo de sitio, hacerlo más grande o darle un color con más contraste para que no pase desapercibido entre las imágenes. |
+| **Alta (Decisión)** | **El Diseño B (SushiMaki) es el ganador:** Aunque ambos diseños tienen notas espectaculares (88.33 frente a 91.25), el Diseño B consiguió un 100 perfecto y sus mapas de calor demuestran que el usuario va directo al grano sin distraerse. | **Adoptar el sistema del Diseño B:** Utilizar la estructura de Sushi Maki (botones grandes y centrados para las acciones principales) como estándar para todo el proyecto. |
+| **Media** | **Barrera tecnológica en adultos mayores:** A los participantes de más de 60 años o con menos experiencia digital les llevó un poco más de tiempo interactuar con algunas secciones. | **Mejorar la accesibilidad:** Aumentar el tamaño de las fuentes, asegurar un buen contraste en los textos y añadir pequeñas ayudas visuales (como iconos claros junto al texto). |
+| **Baja** | **Contenido vs. Acción:** Los bloques de texto largo (como "Historia del Lugar") apenas se leen. Los usuarios buscan interactuar rápido con elementos visuales. | **Simplificar textos:** Reducir los textos informativos a frases cortas y directas, priorizando siempre los accesos rápidos y las imágenes que guíen al usuario. |
 
 
 
